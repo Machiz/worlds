@@ -1,0 +1,176 @@
+id,pos,round_id,best,average,name,country_iso2,competition_id,event_id,round_type_id,format_id,wca_id,attempts,best_index,worst_index,regional_single_record,regional_average_record,competition_name,start_date,single_seconds,average_seconds
+5632136,1,819537,435,533,Matty Hiroto Inaba,US,BayAreaSpeedcubin55SanRamon2024,333,1,a,2016INAB01,"[477, 670, 435, 663, 460]",2,1,,,Bay Area Speedcubin' 55 - San Ramon 2024,2024-01-14,4.35,5.33
+5632265,1,819538,434,560,Matty Hiroto Inaba,US,BayAreaSpeedcubin55SanRamon2024,333,2,a,2016INAB01,"[434, 709, 556, 519, 605]",0,1,,,Bay Area Speedcubin' 55 - San Ramon 2024,2024-01-14,4.34,5.6
+5632352,1,819539,460,541,Matty Hiroto Inaba,US,BayAreaSpeedcubin55SanRamon2024,333,f,a,2016INAB01,"[517, 602, 460, 516, 591]",2,1,,,Bay Area Speedcubin' 55 - San Ramon 2024,2024-01-14,4.6,5.41
+5632376,9,819540,250,315,Matty Hiroto Inaba,US,BayAreaSpeedcubin55SanRamon2024,222,1,a,2016INAB01,"[413, 396, 283, 266, 250]",4,0,,,Bay Area Speedcubin' 55 - San Ramon 2024,2024-01-14,2.5,3.15
+5632463,4,819541,176,256,Matty Hiroto Inaba,US,BayAreaSpeedcubin55SanRamon2024,222,f,a,2016INAB01,"[352, 273, 193, 176, 303]",3,0,,,Bay Area Speedcubin' 55 - San Ramon 2024,2024-01-14,1.76,2.56
+5632472,1,819542,8008,9023,Matty Hiroto Inaba,US,BayAreaSpeedcubin55SanRamon2024,666,c,m,2016INAB01,"[9488, 8008, 9572, 0, 0]",1,2,,,Bay Area Speedcubin' 55 - San Ramon 2024,2024-01-14,80.08,90.23
+5632505,2,819543,13822,14541,Matty Hiroto Inaba,US,BayAreaSpeedcubin55SanRamon2024,777,c,m,2016INAB01,"[14220, 13822, 15581, 0, 0]",1,2,,,Bay Area Speedcubin' 55 - San Ramon 2024,2024-01-14,138.22,145.41
+5632573,2,820838,1127,1305,Matty Hiroto Inaba,US,BayAreaSpeedcubin55SanRamon2024,333oh,d,a,2016INAB01,"[1565, 1243, 1127, 1455, 1216]",2,0,,,Bay Area Speedcubin' 55 - San Ramon 2024,2024-01-14,11.27,13.05
+5632650,2,820839,987,1171,Matty Hiroto Inaba,US,BayAreaSpeedcubin55SanRamon2024,333oh,f,a,2016INAB01,"[1207, 1276, 1192, 987, 1115]",3,1,,,Bay Area Speedcubin' 55 - San Ramon 2024,2024-01-14,9.87,11.71
+5662924,2,823123,554,608,Matty Hiroto Inaba,US,HonoluluLiiliiaIkeMaka2024,333,1,a,2016INAB01,"[647, 596, 648, 554, 582]",3,2,,,Honolulu Liʻiliʻi a ʻIke Maka 2024,2024-01-27,5.54,6.08
+5662994,1,823124,405,589,Matty Hiroto Inaba,US,HonoluluLiiliiaIkeMaka2024,333,2,a,2016INAB01,"[681, 588, 630, 549, 405]",4,0,,,Honolulu Liʻiliʻi a ʻIke Maka 2024,2024-01-27,4.05,5.89
+5663047,1,823125,522,586,Matty Hiroto Inaba,US,HonoluluLiiliiaIkeMaka2024,333,f,a,2016INAB01,"[580, 604, 574, 522, 612]",3,4,,,Honolulu Liʻiliʻi a ʻIke Maka 2024,2024-01-27,5.22,5.86
+5663062,4,823126,261,293,Matty Hiroto Inaba,US,HonoluluLiiliiaIkeMaka2024,222,1,a,2016INAB01,"[297, 261, 401, 273, 310]",1,2,,,Honolulu Liʻiliʻi a ʻIke Maka 2024,2024-01-27,2.61,2.93
+5663110,3,823127,234,286,Matty Hiroto Inaba,US,HonoluluLiiliiaIkeMaka2024,222,f,a,2016INAB01,"[329, 234, 236, 294, 332]",1,4,,,Honolulu Liʻiliʻi a ʻIke Maka 2024,2024-01-27,2.34,2.86
+5663120,1,824591,2091,2533,Matty Hiroto Inaba,US,HonoluluLiiliiaIkeMaka2024,444,d,a,2016INAB01,"[2572, 2426, 2909, 2600, 2091]",4,2,,,Honolulu Liʻiliʻi a ʻIke Maka 2024,2024-01-27,20.91,25.33
+5663160,1,824592,2298,2359,Matty Hiroto Inaba,US,HonoluluLiiliiaIkeMaka2024,444,f,a,2016INAB01,"[2373, 2341, 2576, 2298, 2363]",3,2,,,Honolulu Liʻiliʻi a ʻIke Maka 2024,2024-01-27,22.98,23.59
+5663169,2,824593,819,1139,Matty Hiroto Inaba,US,HonoluluLiiliiaIkeMaka2024,333oh,d,a,2016INAB01,"[1091, 819, 1221, 1106, 1247]",1,4,,,Honolulu Liʻiliʻi a ʻIke Maka 2024,2024-01-27,8.19,11.39
+5663207,2,824594,920,1189,Matty Hiroto Inaba,US,HonoluluLiiliiaIkeMaka2024,333oh,f,a,2016INAB01,"[920, 1243, 1155, 1242, 1170]",0,1,,,Honolulu Liʻiliʻi a ʻIke Maka 2024,2024-01-27,9.2,11.89
+5668782,1,823128,4380,4716,Matty Hiroto Inaba,US,HonoluluNuiaMakapo2024,555,d,a,2016INAB01,"[4937, 4455, 4380, 5017, 4756]",2,3,,,Honolulu Nui a Makapō 2024,2024-01-28,43.8,47.16
+5668811,1,823129,4149,4708,Matty Hiroto Inaba,US,HonoluluNuiaMakapo2024,555,f,a,2016INAB01,"[4842, 4770, 4512, 4864, 4149]",4,3,,,Honolulu Nui a Makapō 2024,2024-01-28,41.49,47.08
+5668817,1,823130,8314,9077,Matty Hiroto Inaba,US,HonoluluNuiaMakapo2024,666,1,m,2016INAB01,"[8314, 9616, 9301, 0, 0]",0,1,,,Honolulu Nui a Makapō 2024,2024-01-28,83.14,90.77
+5668844,1,823131,7950,9051,Matty Hiroto Inaba,US,HonoluluNuiaMakapo2024,666,f,m,2016INAB01,"[9642, 9562, 7950, 0, 0]",2,0,,,Honolulu Nui a Makapō 2024,2024-01-28,79.5,90.51
+5668850,1,823132,14134,14953,Matty Hiroto Inaba,US,HonoluluNuiaMakapo2024,777,1,m,2016INAB01,"[14134, 16525, 14200, 0, 0]",0,1,,,Honolulu Nui a Makapō 2024,2024-01-28,141.34,149.53
+5668873,1,823133,12844,13528,Matty Hiroto Inaba,US,HonoluluNuiaMakapo2024,777,f,m,2016INAB01,"[14897, 12844, 12844, 0, 0]",1,0,,,Honolulu Nui a Makapō 2024,2024-01-28,128.44,135.28
+5707143,1,823136,545,624,Matty Hiroto Inaba,US,HawaiiBigIslandWinter2024,333,1,a,2016INAB01,"[545, 788, 577, 583, 711]",0,1,,,Hawaiʻi Big Island Winter 2024,2024-02-10,5.45,6.24
+5707179,1,823137,460,510,Matty Hiroto Inaba,US,HawaiiBigIslandWinter2024,333,2,a,2016INAB01,"[513, 570, 495, 460, 521]",3,1,,,Hawaiʻi Big Island Winter 2024,2024-02-10,4.6,5.1
+5707204,1,823138,461,580,Matty Hiroto Inaba,US,HawaiiBigIslandWinter2024,333,f,a,2016INAB01,"[461, 605, 585, 674, 550]",0,3,,,Hawaiʻi Big Island Winter 2024,2024-02-10,4.61,5.8
+5707213,2,823139,225,259,Matty Hiroto Inaba,US,HawaiiBigIslandWinter2024,222,1,a,2016INAB01,"[354, 233, 225, 303, 241]",2,0,,,Hawaiʻi Big Island Winter 2024,2024-02-10,2.25,2.59
+5707244,2,823140,245,283,Matty Hiroto Inaba,US,HawaiiBigIslandWinter2024,222,f,a,2016INAB01,"[443, 289, 249, 311, 245]",4,0,,,Hawaiʻi Big Island Winter 2024,2024-02-10,2.45,2.83
+5707251,1,823141,1865,2308,Matty Hiroto Inaba,US,HawaiiBigIslandWinter2024,444,d,a,2016INAB01,"[2020, 2689, 2519, 1865, 2385]",3,1,,,Hawaiʻi Big Island Winter 2024,2024-02-10,18.65,23.08
+5707273,1,823142,2267,2415,Matty Hiroto Inaba,US,HawaiiBigIslandWinter2024,444,f,a,2016INAB01,"[2485, -1, 2367, 2267, 2394]",3,1,,,Hawaiʻi Big Island Winter 2024,2024-02-10,22.67,24.15
+5707279,1,823143,1011,1068,Matty Hiroto Inaba,US,HawaiiBigIslandWinter2024,333oh,c,a,2016INAB01,"[1228, 1011, 1051, 1028, 1125]",1,0,,,Hawaiʻi Big Island Winter 2024,2024-02-10,10.11,10.68
+5707320,9,823144,498,702,Matty Hiroto Inaba,US,HawaiiBigIslandWinter2024,pyram,1,a,2016INAB01,"[845, 638, 833, 634, 498]",4,0,,,Hawaiʻi Big Island Winter 2024,2024-02-10,4.98,7.02
+5842164,2,836690,508,641,Matty Hiroto Inaba,US,LakewoodNewcomers2024,333,1,a,2016INAB01,"[508, -1, 598, 600, 726]",0,1,,,Lakewood Newcomers 2024,2024-03-23,5.08,6.41
+5842311,1,836691,468,556,Matty Hiroto Inaba,US,LakewoodNewcomers2024,333,2,a,2016INAB01,"[642, 506, 562, 468, 601]",3,0,,,Lakewood Newcomers 2024,2024-03-23,4.68,5.56
+5842421,2,836692,559,661,Matty Hiroto Inaba,US,LakewoodNewcomers2024,333,f,a,2016INAB01,"[593, 670, 725, 559, 719]",3,2,,,Lakewood Newcomers 2024,2024-03-23,5.59,6.61
+5967656,1,830903,649,671,Matty Hiroto Inaba,US,HonoluluKupulau2024,333,1,a,2016INAB01,"[649, 668, 700, 668, 677]",0,2,,,Honolulu Kupulau 2024,2024-05-11,6.49,6.71
+5967710,1,830904,454,551,Matty Hiroto Inaba,US,HonoluluKupulau2024,333,2,a,2016INAB01,"[559, 584, 577, 516, 454]",4,1,,,Honolulu Kupulau 2024,2024-05-11,4.54,5.51
+5967750,1,830905,479,568,Matty Hiroto Inaba,US,HonoluluKupulau2024,333,f,a,2016INAB01,"[510, 479, 610, 583, 770]",1,4,,,Honolulu Kupulau 2024,2024-05-11,4.79,5.68
+5967761,2,830906,220,303,Matty Hiroto Inaba,US,HonoluluKupulau2024,222,1,a,2016INAB01,"[311, 334, 407, 264, 220]",4,2,,,Honolulu Kupulau 2024,2024-05-11,2.2,3.03
+5967801,1,830907,182,237,Matty Hiroto Inaba,US,HonoluluKupulau2024,222,f,a,2016INAB01,"[208, 182, 273, 363, 230]",1,3,,,Honolulu Kupulau 2024,2024-05-11,1.82,2.37
+5967811,1,830908,2227,2275,Matty Hiroto Inaba,US,HonoluluKupulau2024,444,d,a,2016INAB01,"[2227, 2251, 2312, 2417, 2263]",0,3,,,Honolulu Kupulau 2024,2024-05-11,22.27,22.75
+5967839,1,830909,2134,2430,Matty Hiroto Inaba,US,HonoluluKupulau2024,444,f,a,2016INAB01,"[2541, 2372, 2134, 2376, 2687]",2,4,,,Honolulu Kupulau 2024,2024-05-11,21.34,24.3
+5967847,1,840918,4024,4515,Matty Hiroto Inaba,US,HonoluluKupulau2024,555,c,a,2016INAB01,"[4896, 4360, 4789, 4396, 4024]",4,0,,,Honolulu Kupulau 2024,2024-05-11,40.24,45.15
+5967870,2,830910,950,1156,Matty Hiroto Inaba,US,HonoluluKupulau2024,333oh,d,a,2016INAB01,"[1108, 1218, 1285, 1141, 950]",4,2,,,Honolulu Kupulau 2024,2024-05-11,9.5,11.56
+5967901,2,830911,638,1116,Matty Hiroto Inaba,US,HonoluluKupulau2024,333oh,f,a,2016INAB01,"[1164, 979, 1271, 1205, 638]",4,2,,,Honolulu Kupulau 2024,2024-05-11,6.38,11.16
+6026897,1,838209,472,519,Matty Hiroto Inaba,US,NewJerseyChampionship2024,333,1,a,2016INAB01,"[521, 581, 535, 500, 472]",4,1,,,New Jersey Championship 2024,2024-05-25,4.72,5.19
+6027085,1,838210,449,555,Matty Hiroto Inaba,US,NewJerseyChampionship2024,333,2,a,2016INAB01,"[546, 567, 449, 730, 552]",2,3,,,New Jersey Championship 2024,2024-05-25,4.49,5.55
+6027177,1,838211,508,550,Matty Hiroto Inaba,US,NewJerseyChampionship2024,333,3,a,2016INAB01,"[508, 564, 522, 565, 784]",0,4,,,New Jersey Championship 2024,2024-05-25,5.08,5.5
+6027237,1,838212,520,578,Matty Hiroto Inaba,US,NewJerseyChampionship2024,333,f,a,2016INAB01,"[590, 556, 677, 520, 589]",3,2,,,New Jersey Championship 2024,2024-05-25,5.2,5.78
+6027267,15,838213,208,302,Matty Hiroto Inaba,US,NewJerseyChampionship2024,222,1,a,2016INAB01,"[353, 321, 208, 231, 396]",2,4,,,New Jersey Championship 2024,2024-05-25,2.08,3.02
+6027431,9,838214,170,294,Matty Hiroto Inaba,US,NewJerseyChampionship2024,222,2,a,2016INAB01,"[372, 385, 170, 247, 262]",2,1,,,New Jersey Championship 2024,2024-05-25,1.7,2.94
+6027492,10,838215,219,258,Matty Hiroto Inaba,US,NewJerseyChampionship2024,222,f,a,2016INAB01,"[273, 219, 247, 281, 255]",1,3,,,New Jersey Championship 2024,2024-05-25,2.19,2.58
+6027499,1,838217,2009,2454,Matty Hiroto Inaba,US,NewJerseyChampionship2024,444,d,a,2016INAB01,"[3048, 2476, 2302, 2009, 2584]",3,0,,,New Jersey Championship 2024,2024-05-25,20.09,24.54
+6027611,1,838218,2068,2301,Matty Hiroto Inaba,US,NewJerseyChampionship2024,444,2,a,2016INAB01,"[2068, 2222, 2510, 2699, 2171]",0,3,,,New Jersey Championship 2024,2024-05-25,20.68,23.01
+6027671,1,838219,2143,2379,Matty Hiroto Inaba,US,NewJerseyChampionship2024,444,f,a,2016INAB01,"[2986, 2393, 2425, 2143, 2320]",3,0,,,New Jersey Championship 2024,2024-05-25,21.43,23.79
+6027687,1,838221,4288,4737,Matty Hiroto Inaba,US,NewJerseyChampionship2024,555,d,a,2016INAB01,"[4676, 5242, 5422, 4292, 4288]",4,2,,,New Jersey Championship 2024,2024-05-25,42.88,47.37
+6027760,1,838222,3753,4384,Matty Hiroto Inaba,US,NewJerseyChampionship2024,555,2,a,2016INAB01,"[5201, 3753, 4434, 4269, 4448]",1,0,,,New Jersey Championship 2024,2024-05-25,37.53,43.84
+6027807,1,838223,4026,4777,Matty Hiroto Inaba,US,NewJerseyChampionship2024,555,f,a,2016INAB01,"[4900, 4026, 5024, 5518, 4407]",1,3,,,New Jersey Championship 2024,2024-05-25,40.26,47.77
+6028011,3,838233,944,1172,Matty Hiroto Inaba,US,NewJerseyChampionship2024,333oh,d,a,2016INAB01,"[944, 1112, 1013, 1453, 1392]",0,3,,,New Jersey Championship 2024,2024-05-25,9.44,11.72
+6028107,4,838234,998,1404,Matty Hiroto Inaba,US,NewJerseyChampionship2024,333oh,2,a,2016INAB01,"[1693, 998, 1274, 2366, 1245]",1,3,,,New Jersey Championship 2024,2024-05-25,9.98,14.04
+6028165,1,838235,803,1107,Matty Hiroto Inaba,US,NewJerseyChampionship2024,333oh,f,a,2016INAB01,"[1194, 1281, 1206, 803, 920]",3,1,,,New Jersey Championship 2024,2024-05-25,8.03,11.07
+6112546,3,833003,613,710,Matty Hiroto Inaba,US,BayAreaSpeedcubin632024,333,1,a,2016INAB01,"[796, 739, 767, 625, 613]",4,0,,,Bay Area Speedcubin' 63 - Atherton 2024,2024-06-22,6.13,7.1
+6112773,1,833004,376,538,Matty Hiroto Inaba,US,BayAreaSpeedcubin632024,333,2,a,2016INAB01,"[376, 572, 544, 515, 554]",0,1,,,Bay Area Speedcubin' 63 - Atherton 2024,2024-06-22,3.76,5.38
+6112920,1,833005,453,569,Matty Hiroto Inaba,US,BayAreaSpeedcubin632024,333,3,a,2016INAB01,"[588, 562, 558, 453, 647]",3,4,,,Bay Area Speedcubin' 63 - Atherton 2024,2024-06-22,4.53,5.69
+6113018,1,833006,359,551,Matty Hiroto Inaba,US,BayAreaSpeedcubin632024,333,f,a,2016INAB01,"[477, 578, 672, 599, 359]",4,2,,,Bay Area Speedcubin' 63 - Atherton 2024,2024-06-22,3.59,5.51
+6113047,14,833007,186,284,Matty Hiroto Inaba,US,BayAreaSpeedcubin632024,222,1,a,2016INAB01,"[239, 378, 235, 186, 378]",3,4,,,Bay Area Speedcubin' 63 - Atherton 2024,2024-06-22,1.86,2.84
+6113242,9,833008,192,256,Matty Hiroto Inaba,US,BayAreaSpeedcubin632024,222,2,a,2016INAB01,"[267, 218, 192, 368, 282]",2,3,,,Bay Area Speedcubin' 63 - Atherton 2024,2024-06-22,1.92,2.56
+6113328,6,833009,236,285,Matty Hiroto Inaba,US,BayAreaSpeedcubin632024,222,f,a,2016INAB01,"[281, 316, 258, 236, -1]",3,4,,,Bay Area Speedcubin' 63 - Atherton 2024,2024-06-22,2.36,2.85
+6113340,3,833010,2216,2589,Matty Hiroto Inaba,US,BayAreaSpeedcubin632024,444,d,a,2016INAB01,"[2665, 2900, 2439, 2216, 2664]",3,1,,,Bay Area Speedcubin' 63 - Atherton 2024,2024-06-22,22.16,25.89
+6113464,1,833011,2090,2408,Matty Hiroto Inaba,US,BayAreaSpeedcubin632024,444,f,a,2016INAB01,"[2540, 2474, 2379, 2090, 2371]",3,0,,,Bay Area Speedcubin' 63 - Atherton 2024,2024-06-22,20.9,24.08
+6113481,2,833012,3854,4754,Matty Hiroto Inaba,US,BayAreaSpeedcubin632024,555,d,a,2016INAB01,"[4777, 4780, 4844, 3854, 4705]",3,2,,,Bay Area Speedcubin' 63 - Atherton 2024,2024-06-22,38.54,47.54
+6113566,1,833013,3914,4516,Matty Hiroto Inaba,US,BayAreaSpeedcubin632024,555,f,a,2016INAB01,"[4497, 4768, 4318, 3914, 4734]",3,1,,,Bay Area Speedcubin' 63 - Atherton 2024,2024-06-22,39.14,45.16
+6113582,2,833014,8524,8749,Matty Hiroto Inaba,US,BayAreaSpeedcubin632024,666,f,m,2016INAB01,"[8822, 8524, 8902, 0, 0]",1,2,,,Bay Area Speedcubin' 63 - Atherton 2024,2024-06-22,85.24,87.49
+6113626,2,833015,13244,13367,Matty Hiroto Inaba,US,BayAreaSpeedcubin632024,777,f,m,2016INAB01,"[13244, 13277, 13580, 0, 0]",0,2,,,Bay Area Speedcubin' 63 - Atherton 2024,2024-06-22,132.44,133.67
+6113712,4,833018,1178,1245,Matty Hiroto Inaba,US,BayAreaSpeedcubin632024,333oh,d,a,2016INAB01,"[1185, 1292, 1178, 1445, 1259]",2,3,,,Bay Area Speedcubin' 63 - Atherton 2024,2024-06-22,11.78,12.45
+6113828,3,833019,1039,1202,Matty Hiroto Inaba,US,BayAreaSpeedcubin632024,333oh,f,a,2016INAB01,"[1390, 1099, 1039, 1116, 2126]",2,4,,,Bay Area Speedcubin' 63 - Atherton 2024,2024-06-22,10.39,12.02
+6151914,1,829279,439,595,Matty Hiroto Inaba,US,NorthwestChampionship2024,333,1,a,2016INAB01,"[439, 446, 648, 705, 690]",0,3,,,CubingUSA Northwest Championship 2024,2024-06-28,4.39,5.95
+6152160,1,829280,426,514,Matty Hiroto Inaba,US,NorthwestChampionship2024,333,2,a,2016INAB01,"[513, 426, 473, 557, 663]",1,4,,,CubingUSA Northwest Championship 2024,2024-06-28,4.26,5.14
+6152333,1,829281,507,553,Matty Hiroto Inaba,US,NorthwestChampionship2024,333,3,a,2016INAB01,"[557, 552, 550, 693, 507]",4,3,,,CubingUSA Northwest Championship 2024,2024-06-28,5.07,5.53
+6152413,1,837856,436,536,Matty Hiroto Inaba,US,NorthwestChampionship2024,333,f,a,2016INAB01,"[510, 522, 629, 576, 436]",4,2,,,CubingUSA Northwest Championship 2024,2024-06-28,4.36,5.36
+6152436,12,829277,225,282,Matty Hiroto Inaba,US,NorthwestChampionship2024,222,1,a,2016INAB01,"[361, 281, 310, 225, 256]",3,0,,,CubingUSA Northwest Championship 2024,2024-06-28,2.25,2.82
+6152762,1,829282,2237,2436,Matty Hiroto Inaba,US,NorthwestChampionship2024,444,d,a,2016INAB01,"[2834, 2517, 2517, 2237, 2275]",3,0,,,CubingUSA Northwest Championship 2024,2024-06-28,22.37,24.36
+6152932,1,829283,2154,2374,Matty Hiroto Inaba,US,NorthwestChampionship2024,444,f,a,2016INAB01,"[2357, 2166, 2880, 2154, 2600]",3,2,,,CubingUSA Northwest Championship 2024,2024-06-28,21.54,23.74
+6152947,1,829284,4171,4585,Matty Hiroto Inaba,US,NorthwestChampionship2024,555,d,a,2016INAB01,"[4214, 5229, 5749, 4312, 4171]",4,2,,,CubingUSA Northwest Championship 2024,2024-06-28,41.71,45.85
+6153063,1,839435,3824,4185,Matty Hiroto Inaba,US,NorthwestChampionship2024,555,f,a,2016INAB01,"[3952, 4681, 3824, 5181, 3922]",2,3,,,CubingUSA Northwest Championship 2024,2024-06-28,38.24,41.85
+6153075,1,829286,7819,8172,Matty Hiroto Inaba,US,NorthwestChampionship2024,666,f,m,2016INAB01,"[7819, 8123, 8573, 0, 0]",0,2,,,CubingUSA Northwest Championship 2024,2024-06-28,78.19,81.72
+6153162,3,829288,11826,12854,Matty Hiroto Inaba,US,NorthwestChampionship2024,777,f,m,2016INAB01,"[13198, 11826, 13537, 0, 0]",1,2,,,CubingUSA Northwest Championship 2024,2024-06-28,118.26,128.54
+6153297,1,829292,995,1098,Matty Hiroto Inaba,US,NorthwestChampionship2024,333oh,d,a,2016INAB01,"[1093, 1092, 1108, 1393, 995]",4,3,,,CubingUSA Northwest Championship 2024,2024-06-28,9.95,10.98
+6153456,3,829293,1010,1091,Matty Hiroto Inaba,US,NorthwestChampionship2024,333oh,f,a,2016INAB01,"[1010, 1500, 1043, 1048, 1182]",0,1,,,CubingUSA Northwest Championship 2024,2024-06-28,10.1,10.91
+6190692,7,842276,576,655,Matty Hiroto Inaba,US,RubiksNorthAmericaAllStars2024,333,1,a,2016INAB01,"[576, 659, 658, 690, 649]",0,3,,,Rubik's North America All-Stars 2024,2024-07-16,5.76,6.55
+6190716,4,842277,488,588,Matty Hiroto Inaba,US,RubiksNorthAmericaAllStars2024,333,2,a,2016INAB01,"[549, 670, 654, 562, 488]",4,1,,,Rubik's North America All-Stars 2024,2024-07-16,4.88,5.88
+6190732,2,842278,476,535,Matty Hiroto Inaba,US,RubiksNorthAmericaAllStars2024,333,f,a,2016INAB01,"[476, 542, 545, 518, 807]",0,4,,,Rubik's North America All-Stars 2024,2024-07-16,4.76,5.35
+6202990,6,802885,527,591,Matty Hiroto Inaba,US,NAC2024,333,1,a,2016INAB01,"[568, 600, 605, 655, 527]",4,3,,,Rubik's WCA North American Championship 2024,2024-07-18,5.27,5.91
+6203820,5,802886,420,595,Matty Hiroto Inaba,US,NAC2024,333,2,a,2016INAB01,"[420, 620, 589, 575, 873]",0,4,,,Rubik's WCA North American Championship 2024,2024-07-18,4.2,5.95
+6204220,6,802887,573,639,Matty Hiroto Inaba,US,NAC2024,333,3,a,2016INAB01,"[659, 573, 626, 732, 631]",1,3,,,Rubik's WCA North American Championship 2024,2024-07-18,5.73,6.39
+6204318,4,802888,502,619,Matty Hiroto Inaba,US,NAC2024,333,f,a,2016INAB01,"[664, 650, 502, 582, 625]",2,0,,,Rubik's WCA North American Championship 2024,2024-07-18,5.02,6.19
+6204599,269,802889,267,379,Matty Hiroto Inaba,US,NAC2024,222,1,a,2016INAB01,"[351, 428, 577, 358, 267]",4,2,,,Rubik's WCA North American Championship 2024,2024-07-18,2.67,3.79
+6205145,45,802890,189,222,Matty Hiroto Inaba,US,NAC2024,222,2,a,2016INAB01,"[189, 285, 219, 213, 235]",0,1,,,Rubik's WCA North American Championship 2024,2024-07-18,1.89,2.22
+6205552,61,802891,214,278,Matty Hiroto Inaba,US,NAC2024,222,3,a,2016INAB01,"[308, 284, 302, 214, 247]",3,0,,,Rubik's WCA North American Championship 2024,2024-07-18,2.14,2.78
+6205609,4,802893,2143,2452,Matty Hiroto Inaba,US,NAC2024,444,1,a,2016INAB01,"[2433, 2352, 2588, 2571, 2143]",4,2,,,Rubik's WCA North American Championship 2024,2024-07-18,21.43,24.52
+6206187,3,802894,2107,2339,Matty Hiroto Inaba,US,NAC2024,444,2,a,2016INAB01,"[2291, 2903, 2409, 2316, 2107]",4,1,,,Rubik's WCA North American Championship 2024,2024-07-18,21.07,23.39
+6206286,3,802895,2183,2256,Matty Hiroto Inaba,US,NAC2024,444,f,a,2016INAB01,"[2482, 2210, 2283, 2183, 2274]",3,0,,,Rubik's WCA North American Championship 2024,2024-07-18,21.83,22.56
+6206307,4,802896,3990,4200,Matty Hiroto Inaba,US,NAC2024,555,1,a,2016INAB01,"[4042, 4254, 4303, 4365, 3990]",4,3,,,Rubik's WCA North American Championship 2024,2024-07-18,39.9,42.0
+6206673,4,802897,3861,4201,Matty Hiroto Inaba,US,NAC2024,555,2,a,2016INAB01,"[4627, 3861, 4440, 3893, 4271]",1,0,,,Rubik's WCA North American Championship 2024,2024-07-18,38.61,42.01
+6206770,4,802898,4101,4506,Matty Hiroto Inaba,US,NAC2024,555,f,a,2016INAB01,"[4447, 4604, 4101, 4577, 4495]",2,1,,,Rubik's WCA North American Championship 2024,2024-07-18,41.01,45.06
+6206792,6,802899,8271,8451,Matty Hiroto Inaba,US,NAC2024,666,1,m,2016INAB01,"[8314, 8271, 8769, 0, 0]",1,2,,,Rubik's WCA North American Championship 2024,2024-07-18,82.71,84.51
+6207071,4,802900,8257,8560,Matty Hiroto Inaba,US,NAC2024,666,f,m,2016INAB01,"[9058, 8364, 8257, 0, 0]",2,0,,,Rubik's WCA North American Championship 2024,2024-07-18,82.57,85.6
+6207094,7,802901,12692,13389,Matty Hiroto Inaba,US,NAC2024,777,1,m,2016INAB01,"[13089, 14386, 12692, 0, 0]",2,1,,,Rubik's WCA North American Championship 2024,2024-07-18,126.92,133.89
+6207284,6,802902,13157,13435,Matty Hiroto Inaba,US,NAC2024,777,f,m,2016INAB01,"[13250, 13157, 13897, 0, 0]",1,2,,,Rubik's WCA North American Championship 2024,2024-07-18,131.57,134.35
+6207595,40,802907,1042,1321,Matty Hiroto Inaba,US,NAC2024,333oh,1,a,2016INAB01,"[1348, 1042, 1161, 1455, 1538]",1,4,,,Rubik's WCA North American Championship 2024,2024-07-18,10.42,13.21
+6208121,10,802908,1009,1170,Matty Hiroto Inaba,US,NAC2024,333oh,2,a,2016INAB01,"[1346, 1119, 1044, 1696, 1009]",4,3,,,Rubik's WCA North American Championship 2024,2024-07-18,10.09,11.7
+6208217,8,802909,1082,1158,Matty Hiroto Inaba,US,NAC2024,333oh,f,a,2016INAB01,"[1296, 1146, 1082, 1168, 1159]",2,0,,,Rubik's WCA North American Championship 2024,2024-07-18,10.82,11.58
+6208896,237,802916,531,634,Matty Hiroto Inaba,US,NAC2024,pyram,1,a,2016INAB01,"[689, 531, 610, 666, 625]",1,0,,,Rubik's WCA North American Championship 2024,2024-07-18,5.31,6.34
+6273191,1,830810,514,589,Matty Hiroto Inaba,US,SouthernChampionship2024,333,1,a,2016INAB01,"[570, 668, 530, 686, 514]",4,3,,,CubingUSA Southern Championship 2024,2024-08-02,5.14,5.89
+6273371,1,830811,421,511,Matty Hiroto Inaba,US,SouthernChampionship2024,333,2,a,2016INAB01,"[478, 428, 801, 627, 421]",4,2,,,CubingUSA Southern Championship 2024,2024-08-02,4.21,5.11
+6273506,2,830812,477,645,Matty Hiroto Inaba,US,SouthernChampionship2024,333,3,a,2016INAB01,"[571, 693, 767, 477, 672]",3,2,,,CubingUSA Southern Championship 2024,2024-08-02,4.77,6.45
+6273605,1,830813,558,608,Matty Hiroto Inaba,US,SouthernChampionship2024,333,f,a,2016INAB01,"[558, 576, 656, 593, 664]",0,4,,,CubingUSA Southern Championship 2024,2024-08-02,5.58,6.08
+6273628,8,830814,244,279,Matty Hiroto Inaba,US,SouthernChampionship2024,222,1,a,2016INAB01,"[305, 272, 378, 244, 259]",3,2,,,CubingUSA Southern Championship 2024,2024-08-02,2.44,2.79
+6273802,15,830815,268,296,Matty Hiroto Inaba,US,SouthernChampionship2024,222,2,a,2016INAB01,"[282, 389, 312, 268, 295]",3,1,,,CubingUSA Southern Championship 2024,2024-08-02,2.68,2.96
+6273928,20,830816,107,317,Matty Hiroto Inaba,US,SouthernChampionship2024,222,3,a,2016INAB01,"[358, 292, 301, 469, 107]",4,3,,,CubingUSA Southern Championship 2024,2024-08-02,1.07,3.17
+6274014,1,830817,2001,2343,Matty Hiroto Inaba,US,SouthernChampionship2024,444,d,a,2016INAB01,"[2353, 2791, 2001, 2624, 2052]",2,1,,,CubingUSA Southern Championship 2024,2024-08-02,20.01,23.43
+6274143,1,830818,2146,2288,Matty Hiroto Inaba,US,SouthernChampionship2024,444,2,a,2016INAB01,"[2238, 2820, 2257, 2368, 2146]",4,1,,,CubingUSA Southern Championship 2024,2024-08-02,21.46,22.88
+6274238,1,830819,2314,2453,Matty Hiroto Inaba,US,SouthernChampionship2024,444,f,a,2016INAB01,"[2314, 2430, 2932, 2444, 2484]",0,2,,,CubingUSA Southern Championship 2024,2024-08-02,23.14,24.53
+6274254,1,830820,4114,4255,Matty Hiroto Inaba,US,SouthernChampionship2024,555,d,a,2016INAB01,"[4304, 4301, 4114, 4653, 4159]",2,3,,,CubingUSA Southern Championship 2024,2024-08-02,41.14,42.55
+6274350,1,830821,4233,4430,Matty Hiroto Inaba,US,SouthernChampionship2024,555,2,a,2016INAB01,"[4285, 4233, 4786, 4327, 4679]",1,2,,,CubingUSA Southern Championship 2024,2024-08-02,42.33,44.3
+6274398,1,830848,4209,4369,Matty Hiroto Inaba,US,SouthernChampionship2024,555,f,a,2016INAB01,"[4209, 4369, 4359, 4951, 4380]",0,3,,,CubingUSA Southern Championship 2024,2024-08-02,42.09,43.69
+6274414,1,830822,8818,9024,Matty Hiroto Inaba,US,SouthernChampionship2024,666,d,m,2016INAB01,"[8818, 9032, 9222, 0, 0]",0,2,,,CubingUSA Southern Championship 2024,2024-08-02,88.18,90.24
+6274474,1,830823,7390,8087,Matty Hiroto Inaba,US,SouthernChampionship2024,666,f,m,2016INAB01,"[8836, 8035, 7390, 0, 0]",2,0,,,CubingUSA Southern Championship 2024,2024-08-02,73.9,80.87
+6274489,1,830824,13375,13587,Matty Hiroto Inaba,US,SouthernChampionship2024,777,d,m,2016INAB01,"[13861, 13375, 13525, 0, 0]",1,0,,,CubingUSA Southern Championship 2024,2024-08-02,133.75,135.87
+6274538,1,830825,13505,14091,Matty Hiroto Inaba,US,SouthernChampionship2024,777,f,m,2016INAB01,"[14605, 13505, 14164, 0, 0]",1,0,,,CubingUSA Southern Championship 2024,2024-08-02,135.05,140.91
+6274618,2,830828,1007,1130,Matty Hiroto Inaba,US,SouthernChampionship2024,333oh,d,a,2016INAB01,"[1025, 1007, -1, 1063, 1302]",1,2,,,CubingUSA Southern Championship 2024,2024-08-02,10.07,11.3
+6274730,3,830829,1098,1201,Matty Hiroto Inaba,US,SouthernChampionship2024,333oh,2,a,2016INAB01,"[1349, 1108, 1098, 1235, 1261]",2,0,,,CubingUSA Southern Championship 2024,2024-08-02,10.98,12.01
+6274811,3,830830,976,1179,Matty Hiroto Inaba,US,SouthernChampionship2024,333oh,3,a,2016INAB01,"[976, 1234, 1055, 1380, 1249]",0,3,,,CubingUSA Southern Championship 2024,2024-08-02,9.76,11.79
+6274858,2,830852,1064,1170,Matty Hiroto Inaba,US,SouthernChampionship2024,333oh,f,a,2016INAB01,"[1127, 1249, 1064, 1221, 1161]",2,1,,,CubingUSA Southern Championship 2024,2024-08-02,10.64,11.7
+6275063,34,830835,475,643,Matty Hiroto Inaba,US,SouthernChampionship2024,pyram,1,a,2016INAB01,"[705, 875, 603, 621, 475]",4,1,,,CubingUSA Southern Championship 2024,2024-08-02,4.75,6.43
+6275206,42,830836,516,703,Matty Hiroto Inaba,US,SouthernChampionship2024,pyram,2,a,2016INAB01,"[516, 887, 604, 667, 839]",0,1,,,CubingUSA Southern Championship 2024,2024-08-02,5.16,7.03
+6275289,25,830837,455,600,Matty Hiroto Inaba,US,SouthernChampionship2024,pyram,3,a,2016INAB01,"[629, 816, 578, 594, 455]",4,1,,,CubingUSA Southern Championship 2024,2024-08-02,4.55,6.0
+6419085,1,844773,572,618,Matty Hiroto Inaba,US,HonoluluHaulelau2024,333,1,a,2016INAB01,"[639, 584, 631, 845, 572]",4,3,,,Honolulu Hāʻulelau 2024,2024-09-21,5.72,6.18
+6419129,1,844774,553,593,Matty Hiroto Inaba,US,HonoluluHaulelau2024,333,2,a,2016INAB01,"[625, 581, 553, 631, 572]",2,3,,,Honolulu Hāʻulelau 2024,2024-09-21,5.53,5.93
+6419162,1,844775,476,627,Matty Hiroto Inaba,US,HonoluluHaulelau2024,333,f,a,2016INAB01,"[476, 564, 807, 689, 627]",0,2,,,Honolulu Hāʻulelau 2024,2024-09-21,4.76,6.27
+6419173,2,844776,177,321,Matty Hiroto Inaba,US,HonoluluHaulelau2024,222,1,a,2016INAB01,"[350, 384, 177, 273, 339]",2,1,,,Honolulu Hāʻulelau 2024,2024-09-21,1.77,3.21
+6419213,1,844781,2046,2218,Matty Hiroto Inaba,US,HonoluluHaulelau2024,444,d,a,2016INAB01,"[2424, 2065, 2461, 2165, 2046]",4,2,,,Honolulu Hāʻulelau 2024,2024-09-21,20.46,22.18
+6419234,1,844782,2044,2267,Matty Hiroto Inaba,US,HonoluluHaulelau2024,444,f,a,2016INAB01,"[2044, 2406, 2303, 2156, 2342]",0,1,,,Honolulu Hāʻulelau 2024,2024-09-21,20.44,22.67
+6419242,1,844785,992,1240,Matty Hiroto Inaba,US,HonoluluHaulelau2024,333oh,d,a,2016INAB01,"[1412, 992, 1793, 1163, 1146]",1,2,,,Honolulu Hāʻulelau 2024,2024-09-21,9.92,12.4
+6419263,1,844786,966,1084,Matty Hiroto Inaba,US,HonoluluHaulelau2024,333oh,f,a,2016INAB01,"[1116, 1008, 1334, 1127, 966]",4,2,,,Honolulu Hāʻulelau 2024,2024-09-21,9.66,10.84
+6419277,4,844778,426,696,Matty Hiroto Inaba,US,HonoluluHaulelau2024,pyram,f,a,2016INAB01,"[426, 860, 829, 448, 811]",0,1,,,Honolulu Hāʻulelau 2024,2024-09-21,4.26,6.96
+6547695,1,853236,531,627,Matty Hiroto Inaba,US,DFWCubingFall2024,333,1,a,2016INAB01,"[700, 671, 587, 623, 531]",4,0,,,DFW Cubing Fall 2024,2024-10-26,5.31,6.27
+6547889,1,853237,468,587,Matty Hiroto Inaba,US,DFWCubingFall2024,333,2,a,2016INAB01,"[711, 629, 562, 571, 468]",4,0,,,DFW Cubing Fall 2024,2024-10-26,4.68,5.87
+6548027,1,853238,437,530,Matty Hiroto Inaba,US,DFWCubingFall2024,333,3,a,2016INAB01,"[437, 572, 530, 489, 634]",0,4,,,DFW Cubing Fall 2024,2024-10-26,4.37,5.3
+6548091,1,853239,475,583,Matty Hiroto Inaba,US,DFWCubingFall2024,333,f,a,2016INAB01,"[536, 622, 475, 592, 703]",2,4,,,DFW Cubing Fall 2024,2024-10-26,4.75,5.83
+6548120,14,853240,176,324,Matty Hiroto Inaba,US,DFWCubingFall2024,222,1,a,2016INAB01,"[338, 176, 327, 447, 308]",1,3,,,DFW Cubing Fall 2024,2024-10-26,1.76,3.24
+6548276,3,853241,138,257,Matty Hiroto Inaba,US,DFWCubingFall2024,222,2,a,2016INAB01,"[201, 232, 337, 138, 368]",3,4,,,DFW Cubing Fall 2024,2024-10-26,1.38,2.57
+6548395,9,853242,247,354,Matty Hiroto Inaba,US,DFWCubingFall2024,222,f,a,2016INAB01,"[291, 344, 247, 526, 427]",2,3,,,DFW Cubing Fall 2024,2024-10-26,2.47,3.54
+6548404,2,853243,2122,2450,Matty Hiroto Inaba,US,DFWCubingFall2024,444,d,a,2016INAB01,"[2550, 2503, 2122, 2298, 2565]",2,4,,,DFW Cubing Fall 2024,2024-10-26,21.22,24.5
+6548510,1,853244,2157,2478,Matty Hiroto Inaba,US,DFWCubingFall2024,444,f,a,2016INAB01,"[2506, 2630, 2597, 2157, 2330]",3,1,,,DFW Cubing Fall 2024,2024-10-26,21.57,24.78
+6548525,1,853245,4115,4379,Matty Hiroto Inaba,US,DFWCubingFall2024,555,d,a,2016INAB01,"[4583, 4993, 4306, 4248, 4115]",4,1,,,DFW Cubing Fall 2024,2024-10-26,41.15,43.79
+6548595,1,853246,4413,4583,Matty Hiroto Inaba,US,DFWCubingFall2024,555,f,a,2016INAB01,"[5567, 4759, 4505, 4413, 4484]",3,0,,,DFW Cubing Fall 2024,2024-10-26,44.13,45.83
+6548637,4,853249,1046,1225,Matty Hiroto Inaba,US,DFWCubingFall2024,333oh,d,a,2016INAB01,"[1169, 1305, 1201, 1046, 1536]",3,4,,,DFW Cubing Fall 2024,2024-10-26,10.46,12.25
+6548723,1,853250,952,1070,Matty Hiroto Inaba,US,DFWCubingFall2024,333oh,f,a,2016INAB01,"[952, 1078, 1007, 1126, 1461]",0,4,,,DFW Cubing Fall 2024,2024-10-26,9.52,10.7
+6626996,1,860862,499,673,Matty Hiroto Inaba,US,CouveCubingFall2024,333,1,a,2016INAB01,"[499, 601, 704, 796, 715]",0,3,,,Couve Cubing Fall 2024,2024-11-23,4.99,6.73
+6627087,1,860863,528,566,Matty Hiroto Inaba,US,CouveCubingFall2024,333,2,a,2016INAB01,"[533, 580, 585, 638, 528]",4,3,,,Couve Cubing Fall 2024,2024-11-23,5.28,5.66
+6627151,1,860864,476,506,Matty Hiroto Inaba,US,CouveCubingFall2024,333,f,a,2016INAB01,"[476, 621, 488, 524, 506]",0,1,,,Couve Cubing Fall 2024,2024-11-23,4.76,5.06
+6627171,5,864273,182,297,Matty Hiroto Inaba,US,CouveCubingFall2024,222,1,a,2016INAB01,"[248, 318, 324, 182, 420]",3,4,,,Couve Cubing Fall 2024,2024-11-23,1.82,2.97
+6627246,4,864274,222,287,Matty Hiroto Inaba,US,CouveCubingFall2024,222,f,a,2016INAB01,"[299, 268, 315, 222, 295]",3,2,,,Couve Cubing Fall 2024,2024-11-23,2.22,2.87
+6627259,1,860867,8329,8860,Matty Hiroto Inaba,US,CouveCubingFall2024,666,d,m,2016INAB01,"[8672, 9580, 8329, 0, 0]",2,1,,,Couve Cubing Fall 2024,2024-11-23,83.29,88.6
+6627281,2,860868,8463,8763,Matty Hiroto Inaba,US,CouveCubingFall2024,666,f,m,2016INAB01,"[8506, 9321, 8463, 0, 0]",2,1,,,Couve Cubing Fall 2024,2024-11-23,84.63,87.63
+6768476,1,871023,495,579,Matty Hiroto Inaba,US,TacomaWinter2025,333,1,a,2016INAB01,"[495, 527, 658, 568, 641]",0,2,,,Tacoma Winter 2025,2025-01-18,4.95,5.79
+6768626,1,871024,502,523,Matty Hiroto Inaba,US,TacomaWinter2025,333,2,a,2016INAB01,"[527, 538, 643, 502, 504]",3,2,,,Tacoma Winter 2025,2025-01-18,5.02,5.23
+6768736,1,871025,528,660,Matty Hiroto Inaba,US,TacomaWinter2025,333,f,a,2016INAB01,"[639, 652, 690, 528, 816]",3,4,,,Tacoma Winter 2025,2025-01-18,5.28,6.6
+6768752,1,871026,2054,2337,Matty Hiroto Inaba,US,TacomaWinter2025,444,d,a,2016INAB01,"[2054, 2179, 2823, 2275, 2558]",0,2,,,Tacoma Winter 2025,2025-01-18,20.54,23.37
+6768839,1,871027,2227,2394,Matty Hiroto Inaba,US,TacomaWinter2025,444,f,a,2016INAB01,"[2577, 2773, 2227, 2276, 2328]",2,1,,,Tacoma Winter 2025,2025-01-18,22.27,23.94
+6768856,2,871028,8901,9329,Matty Hiroto Inaba,US,TacomaWinter2025,666,c,m,2016INAB01,"[8901, 9909, 9176, 0, 0]",0,1,,,Tacoma Winter 2025,2025-01-18,89.01,93.29
+6768905,2,871029,952,1168,Matty Hiroto Inaba,US,TacomaWinter2025,333oh,d,a,2016INAB01,"[1187, 1335, 952, 1365, 982]",2,3,,,Tacoma Winter 2025,2025-01-18,9.52,11.68
+6768984,3,871030,1076,1113,Matty Hiroto Inaba,US,TacomaWinter2025,333oh,f,a,2016INAB01,"[1121, 1103, 1861, 1076, 1115]",3,2,,,Tacoma Winter 2025,2025-01-18,10.76,11.13

@@ -1,0 +1,120 @@
+id,pos,round_id,best,average,name,country_iso2,competition_id,event_id,round_type_id,format_id,wca_id,attempts,best_index,worst_index,regional_single_record,regional_average_record,competition_name,start_date,single_seconds,average_seconds
+5768270,3,838487,521,563,Xuanyi Geng (耿暄一),CN,HangzhouSpring2024,333,1,a,2023GENG02,"[562, 558, 569, 521, 630]",3,4,,,Hangzhou Spring 2024,2024-03-02,5.21,5.63
+5768418,2,838488,532,552,Xuanyi Geng (耿暄一),CN,HangzhouSpring2024,333,2,a,2023GENG02,"[567, 599, 532, 539, 551]",2,1,,,Hangzhou Spring 2024,2024-03-02,5.32,5.52
+5768500,4,838489,464,563,Xuanyi Geng (耿暄一),CN,HangzhouSpring2024,333,f,a,2023GENG02,"[589, 522, 464, 592, 577]",2,3,,,Hangzhou Spring 2024,2024-03-02,4.64,5.63
+5796596,2,839200,493,554,Xuanyi Geng (耿暄一),CN,LuoyangSpring2024,333,1,a,2023GENG02,"[625, 502, 618, 542, 493]",4,0,,,Luoyang Spring 2024,2024-03-10,4.93,5.54
+5796785,3,839201,514,593,Xuanyi Geng (耿暄一),CN,LuoyangSpring2024,333,2,a,2023GENG02,"[603, 601, 514, 681, 574]",2,3,,,Luoyang Spring 2024,2024-03-10,5.14,5.93
+5796864,3,839202,522,621,Xuanyi Geng (耿暄一),CN,LuoyangSpring2024,333,f,a,2023GENG02,"[522, 702, 637, 656, 570]",0,1,,,Luoyang Spring 2024,2024-03-10,5.22,6.21
+5854690,3,839235,493,570,Xuanyi Geng (耿暄一),CN,XuzhouOpen2024,333,1,a,2023GENG02,"[502, 493, 663, 593, 615]",1,2,,,Xuzhou Open 2024,2024-03-30,4.93,5.7
+5854870,1,839236,460,535,Xuanyi Geng (耿暄一),CN,XuzhouOpen2024,333,2,a,2023GENG02,"[507, 557, 460, 626, 541]",2,3,,,Xuzhou Open 2024,2024-03-30,4.6,5.35
+5854951,2,839237,487,567,Xuanyi Geng (耿暄一),CN,XuzhouOpen2024,333,f,a,2023GENG02,"[487, 591, 696, 600, 510]",0,2,,,Xuzhou Open 2024,2024-03-30,4.87,5.67
+5861578,1,843793,422,514,Xuanyi Geng (耿暄一),CN,XianCherryBlossom2024,333,1,a,2023GENG02,"[548, 497, 580, 422, 496]",3,2,,,Xi'an Cherry Blossom 2024,2024-04-05,4.22,5.14
+5861767,1,843794,494,538,Xuanyi Geng (耿暄一),CN,XianCherryBlossom2024,333,2,a,2023GENG02,"[568, 494, 592, 538, 507]",1,2,,,Xi'an Cherry Blossom 2024,2024-04-05,4.94,5.38
+5861846,1,843795,502,548,Xuanyi Geng (耿暄一),CN,XianCherryBlossom2024,333,f,a,2023GENG02,"[564, 532, 725, 502, 549]",3,2,,,Xi'an Cherry Blossom 2024,2024-04-05,5.02,5.48
+5898107,2,845167,538,597,Xuanyi Geng (耿暄一),CN,KunshanOpen2024,333,2,a,2023GENG02,"[565, 538, 700, 625, 600]",1,2,,,Kunshan Open 2024,2024-04-14,5.38,5.97
+5898187,2,845168,528,529,Xuanyi Geng (耿暄一),CN,KunshanOpen2024,333,f,a,2023GENG02,"[548, 528, 531, 528, 528]",1,0,,,Kunshan Open 2024,2024-04-14,5.28,5.29
+5897925,2,845166,518,560,Xuanyi Geng (耿暄一),CN,KunshanOpen2024,333,1,a,2023GENG02,"[587, 534, 560, 518, 651]",3,4,,,Kunshan Open 2024,2024-04-14,5.18,5.6
+5926428,1,841589,514,535,Xuanyi Geng (耿暄一),CN,NanchangSpring2024,333,1,a,2023GENG02,"[631, 533, 543, 514, 530]",3,0,,,Nanchang Spring 2024,2024-04-21,5.14,5.35
+5926560,3,841590,528,585,Xuanyi Geng (耿暄一),CN,NanchangSpring2024,333,2,a,2023GENG02,"[593, 579, 877, 582, 528]",4,2,,,Nanchang Spring 2024,2024-04-21,5.28,5.85
+5926620,3,841591,458,577,Xuanyi Geng (耿暄一),CN,NanchangSpring2024,333,f,a,2023GENG02,"[588, 458, 621, 560, 584]",1,2,,,Nanchang Spring 2024,2024-04-21,4.58,5.77
+6009134,3,848034,491,550,Xuanyi Geng (耿暄一),CN,ZiboOpen2024,333,1,a,2023GENG02,"[614, 506, 530, 619, 491]",4,3,,,Zibo Open 2024,2024-05-19,4.91,5.5
+6009265,2,848035,516,543,Xuanyi Geng (耿暄一),CN,ZiboOpen2024,333,2,a,2023GENG02,"[517, 667, 541, 516, 572]",3,1,,,Zibo Open 2024,2024-05-19,5.16,5.43
+6009334,3,848036,486,564,Xuanyi Geng (耿暄一),CN,ZiboOpen2024,333,f,a,2023GENG02,"[578, 523, 847, 486, 591]",3,2,,,Zibo Open 2024,2024-05-19,4.86,5.64
+6029819,2,848055,535,579,Xuanyi Geng (耿暄一),CN,GuiyangOpen2024,333,1,a,2023GENG02,"[657, 535, 624, 556, 557]",1,0,,,Guiyang Open 2024,2024-05-26,5.35,5.79
+6029981,2,848056,499,594,Xuanyi Geng (耿暄一),CN,GuiyangOpen2024,333,2,a,2023GENG02,"[650, 595, -1, 499, 536]",3,2,,,Guiyang Open 2024,2024-05-26,4.99,5.94
+6030058,1,848057,484,517,Xuanyi Geng (耿暄一),CN,GuiyangOpen2024,333,f,a,2023GENG02,"[508, 523, 484, 530, 519]",2,3,,,Guiyang Open 2024,2024-05-26,4.84,5.17
+6048755,2,850548,449,569,Xuanyi Geng (耿暄一),CN,TianjinOpen2024,333,f,a,2023GENG02,"[740, 570, 530, 607, 449]",4,0,,,Tianjin Open 2024,2024-06-01,4.49,5.69
+6046306,665,835131,48,-1,Xuanyi Geng (耿暄一),CN,FMC2024,333fm,f,m,2023GENG02,"[48, -2, -2, 0, 0]",0,2,,,FMC 2024,2024-06-01,0.48,
+6048490,3,850546,504,571,Xuanyi Geng (耿暄一),CN,TianjinOpen2024,333,1,a,2023GENG02,"[536, 504, 594, 584, 660]",1,4,,,Tianjin Open 2024,2024-06-01,5.04,5.71
+6048674,1,850547,354,545,Xuanyi Geng (耿暄一),CN,TianjinOpen2024,333,2,a,2023GENG02,"[515, 603, 518, 354, 615]",3,4,,,Tianjin Open 2024,2024-06-01,3.54,5.45
+6103184,1,853099,525,599,Xuanyi Geng (耿暄一),CN,ShenzhenNanshanOpen2024,333,f,a,2023GENG02,"[643, 603, 588, 525, 607]",3,0,,,Shenzhen Nanshan Open 2024,2024-06-22,5.25,5.99
+6103065,1,853098,483,570,Xuanyi Geng (耿暄一),CN,ShenzhenNanshanOpen2024,333,2,a,2023GENG02,"[519, 483, 578, 613, 621]",1,4,,,Shenzhen Nanshan Open 2024,2024-06-22,4.83,5.7
+6102820,1,853097,472,579,Xuanyi Geng (耿暄一),CN,ShenzhenNanshanOpen2024,333,1,a,2023GENG02,"[496, 624, 472, 651, 618]",2,3,,,Shenzhen Nanshan Open 2024,2024-06-22,4.72,5.79
+6212254,1,855976,411,494,Xuanyi Geng (耿暄一),CN,ChengduSummer2024,333,1,a,2023GENG02,"[545, 502, 441, 540, 411]",4,0,,,Chengdu Summer 2024,2024-07-20,4.11,4.94
+6212450,1,855977,480,537,Xuanyi Geng (耿暄一),CN,ChengduSummer2024,333,2,a,2023GENG02,"[495, 557, 480, 559, 559]",2,4,,,Chengdu Summer 2024,2024-07-20,4.8,5.37
+6212531,2,855978,486,556,Xuanyi Geng (耿暄一),CN,ChengduSummer2024,333,f,a,2023GENG02,"[547, 584, 548, 486, 572]",3,1,,,Chengdu Summer 2024,2024-07-20,4.86,5.56
+6221475,1,855066,488,523,Xuanyi Geng (耿暄一),CN,Huizhou10thAnniversary2024,333,1,a,2023GENG02,"[540, 528, 502, 551, 488]",4,3,,,Huizhou 10th Anniversary 2024,2024-07-28,4.88,5.23
+6221647,1,855067,456,547,Xuanyi Geng (耿暄一),CN,Huizhou10thAnniversary2024,333,2,a,2023GENG02,"[583, 515, 684, 543, 456]",4,2,,,Huizhou 10th Anniversary 2024,2024-07-28,4.56,5.47
+6221747,1,855068,481,525,Xuanyi Geng (耿暄一),CN,Huizhou10thAnniversary2024,333,3,a,2023GENG02,"[627, 481, 514, 510, 550]",1,0,,,Huizhou 10th Anniversary 2024,2024-07-28,4.81,5.25
+6221797,1,855069,430,529,Xuanyi Geng (耿暄一),CN,Huizhou10thAnniversary2024,333,f,a,2023GENG02,"[737, 430, 592, 539, 456]",1,0,,,Huizhou 10th Anniversary 2024,2024-07-28,4.3,5.29
+6277323,2,856307,515,540,Xuanyi Geng (耿暄一),CN,XianOpen2024,333,1,a,2023GENG02,"[515, 648, 550, 553, 517]",0,1,,,Xi'an Open 2024,2024-08-03,5.15,5.4
+6277579,2,856308,442,481,Xuanyi Geng (耿暄一),CN,XianOpen2024,333,2,a,2023GENG02,"[513, 442, 463, 652, 467]",1,3,,,Xi'an Open 2024,2024-08-03,4.42,4.81
+6277700,5,856309,410,602,Xuanyi Geng (耿暄一),CN,XianOpen2024,333,3,a,2023GENG02,"[583, 410, 554, 801, 670]",1,3,,,Xi'an Open 2024,2024-08-03,4.1,6.02
+6277755,2,856310,423,526,Xuanyi Geng (耿暄一),CN,XianOpen2024,333,f,a,2023GENG02,"[529, 552, 496, 613, 423]",4,3,,,Xi'an Open 2024,2024-08-03,4.23,5.26
+6340121,1,859686,434,485,Xuanyi Geng (耿暄一),CN,DeqingSmallCubesSummer2024,333,2,a,2023GENG02,"[525, 490, 434, 594, 439]",2,3,,,Deqing Small Cubes Summer 2024,2024-08-25,4.34,4.85
+6340201,2,859687,485,514,Xuanyi Geng (耿暄一),CN,DeqingSmallCubesSummer2024,333,f,a,2023GENG02,"[493, 558, 511, 538, 485]",4,1,,,Deqing Small Cubes Summer 2024,2024-08-25,4.85,5.14
+6339984,2,859685,447,570,Xuanyi Geng (耿暄一),CN,DeqingSmallCubesSummer2024,333,1,a,2023GENG02,"[545, 447, 735, 652, 513]",1,2,,,Deqing Small Cubes Summer 2024,2024-08-25,4.47,5.7
+6412083,2,862622,464,529,Xuanyi Geng (耿暄一),CN,DalianOpen2024,333,1,a,2023GENG02,"[599, 493, 464, -1, 495]",2,3,,,Dalian Open 2024,2024-09-16,4.64,5.29
+6412271,1,862623,442,500,Xuanyi Geng (耿暄一),CN,DalianOpen2024,333,2,a,2023GENG02,"[521, 442, 454, 528, 525]",1,3,,,Dalian Open 2024,2024-09-16,4.42,5.0
+6412351,2,862624,469,563,Xuanyi Geng (耿暄一),CN,DalianOpen2024,333,f,a,2023GENG02,"[790, 545, 469, 511, 633]",2,0,,,Dalian Open 2024,2024-09-16,4.69,5.63
+6434563,2,863060,476,500,Xuanyi Geng (耿暄一),CN,XuzhouAutumn2024,333,1,a,2023GENG02,"[499, 519, 483, 476, 613]",3,4,,,Xuzhou Autumn 2024,2024-09-21,4.76,5.0
+6434792,2,863061,465,534,Xuanyi Geng (耿暄一),CN,XuzhouAutumn2024,333,2,a,2023GENG02,"[583, 506, 465, 529, 568]",2,0,,,Xuzhou Autumn 2024,2024-09-21,4.65,5.34
+6434912,2,863062,425,477,Xuanyi Geng (耿暄一),CN,XuzhouAutumn2024,333,3,a,2023GENG02,"[594, 538, 448, 445, 425]",4,0,,,Xuzhou Autumn 2024,2024-09-21,4.25,4.77
+6434952,2,863063,447,513,Xuanyi Geng (耿暄一),CN,XuzhouAutumn2024,333,f,a,2023GENG02,"[447, 534, 495, 726, 511]",0,3,,,Xuzhou Autumn 2024,2024-09-21,4.47,5.13
+6528977,1,866768,471,513,Xuanyi Geng (耿暄一),CN,GuilinOpen2024,333,1,a,2023GENG02,"[526, 523, 471, 505, 512]",2,0,,,Guilin Open 2024,2024-10-20,4.71,5.13
+6529088,1,866769,440,486,Xuanyi Geng (耿暄一),CN,GuilinOpen2024,333,2,a,2023GENG02,"[507, 546, 481, 469, 440]",4,1,,,Guilin Open 2024,2024-10-20,4.4,4.86
+6529149,2,866770,461,511,Xuanyi Geng (耿暄一),CN,GuilinOpen2024,333,f,a,2023GENG02,"[500, 507, 461, 526, 559]",2,4,,,Guilin Open 2024,2024-10-20,4.61,5.11
+6554386,2,868409,522,543,Xuanyi Geng (耿暄一),CN,HarbinOpen2024,333,1,a,2023GENG02,"[522, 533, 555, 541, 562]",0,4,,,Harbin Open 2024,2024-10-27,5.22,5.43
+6554524,2,868410,481,540,Xuanyi Geng (耿暄一),CN,HarbinOpen2024,333,2,a,2023GENG02,"[566, 503, 586, 550, 481]",4,2,,,Harbin Open 2024,2024-10-27,4.81,5.4
+6554583,2,868411,445,524,Xuanyi Geng (耿暄一),CN,HarbinOpen2024,333,f,a,2023GENG02,"[499, 523, 694, 549, 445]",4,2,,,Harbin Open 2024,2024-10-27,4.45,5.24
+6573855,2,850986,481,516,Xuanyi Geng (耿暄一),CN,RubiksWCAAsianChampionship2024,333,f,a,2023GENG02,"[613, 481, 484, 500, 564]",1,0,,,Rubik's WCA Asian Championship 2024,2024-11-01,4.81,5.16
+6573818,1,850985,482,524,Xuanyi Geng (耿暄一),CN,RubiksWCAAsianChampionship2024,333,3,a,2023GENG02,"[503, 575, 482, 721, 493]",2,3,,,Rubik's WCA Asian Championship 2024,2024-11-01,4.82,5.24
+6573670,2,850984,461,510,Xuanyi Geng (耿暄一),CN,RubiksWCAAsianChampionship2024,333,2,a,2023GENG02,"[461, 549, 472, 509, 551]",0,4,,,Rubik's WCA Asian Championship 2024,2024-11-01,4.61,5.1
+6573148,3,850983,431,510,Xuanyi Geng (耿暄一),CN,RubiksWCAAsianChampionship2024,333,1,a,2023GENG02,"[431, 523, 507, 499, -1]",0,4,,,Rubik's WCA Asian Championship 2024,2024-11-01,4.31,5.1
+6621019,1,859486,438,486,Xuanyi Geng (耿暄一),CN,HongKongChampionship2024,333,1,a,2023GENG02,"[485, 494, 495, 438, 479]",3,2,,,Hong Kong Championship 2024,2024-11-16,4.38,4.86
+6621183,1,859487,463,563,Xuanyi Geng (耿暄一),CN,HongKongChampionship2024,333,2,a,2023GENG02,"[463, 619, 581, 560, 548]",0,1,,,Hong Kong Championship 2024,2024-11-16,4.63,5.63
+6621240,1,859488,485,505,Xuanyi Geng (耿暄一),CN,HongKongChampionship2024,333,3,a,2023GENG02,"[496, 518, 530, 502, 485]",4,2,,,Hong Kong Championship 2024,2024-11-16,4.85,5.05
+6621264,1,859489,445,543,Xuanyi Geng (耿暄一),CN,HongKongChampionship2024,333,f,a,2023GENG02,"[550, 552, 445, 660, 528]",2,3,,,Hong Kong Championship 2024,2024-11-16,4.45,5.43
+6675530,1,873105,457,489,Xuanyi Geng (耿暄一),CN,ShenzhenOpen2024,333,1,a,2023GENG02,"[495, 484, 457, 487, 576]",2,4,,,Shenzhen Open 2024,2024-12-07,4.57,4.89
+6675753,1,873106,492,554,Xuanyi Geng (耿暄一),CN,ShenzhenOpen2024,333,2,a,2023GENG02,"[593, 542, 492, 707, 527]",2,3,,,Shenzhen Open 2024,2024-12-07,4.92,5.54
+6675854,2,873107,544,590,Xuanyi Geng (耿暄一),CN,ShenzhenOpen2024,333,f,a,2023GENG02,"[624, 548, 635, 597, 544]",4,2,,,Shenzhen Open 2024,2024-12-07,5.44,5.9
+6679944,2,872520,432,503,Xuanyi Geng (耿暄一),CN,ZhengzhouOpen2024,333,1,a,2023GENG02,"[489, 546, 529, 490, 432]",4,1,,,Zhengzhou Open 2024,2024-12-08,4.32,5.03
+6680110,3,872521,349,551,Xuanyi Geng (耿暄一),CN,ZhengzhouOpen2024,333,2,a,2023GENG02,"[579, 582, 539, 349, 535]",3,1,,,Zhengzhou Open 2024,2024-12-08,3.49,5.51
+6680169,2,872522,381,479,Xuanyi Geng (耿暄一),CN,ZhengzhouOpen2024,333,f,a,2023GENG02,"[557, 504, 381, 409, 524]",2,0,,,Zhengzhou Open 2024,2024-12-08,3.81,4.79
+6709052,1,872859,389,432,Xuanyi Geng (耿暄一),CN,HangzhouOpen2024,333,2,a,2023GENG02,"[389, 390, 517, 402, 503]",0,2,,,Hangzhou Open 2024,2024-12-15,3.89,4.32
+6709153,2,872860,464,508,Xuanyi Geng (耿暄一),CN,HangzhouOpen2024,333,f,a,2023GENG02,"[464, 534, 511, 480, 551]",0,4,,,Hangzhou Open 2024,2024-12-15,4.64,5.08
+6708831,2,872858,415,504,Xuanyi Geng (耿暄一),CN,HangzhouOpen2024,333,1,a,2023GENG02,"[464, 466, 583, 415, 609]",3,4,,,Hangzhou Open 2024,2024-12-15,4.15,5.04
+6720013,1,872898,402,437,Xuanyi Geng (耿暄一),CN,YanchengOpen2024,333,1,a,2023GENG02,"[465, 425, 427, 402, 459]",3,0,,,Yancheng Open 2024,2024-12-21,4.02,4.37
+6720150,1,872899,425,458,Xuanyi Geng (耿暄一),CN,YanchengOpen2024,333,2,a,2023GENG02,"[497, 425, 454, 485, 435]",1,0,,,Yancheng Open 2024,2024-12-21,4.25,4.58
+6720231,2,872900,464,492,Xuanyi Geng (耿暄一),CN,YanchengOpen2024,333,f,a,2023GENG02,"[529, 506, 482, 487, 464]",4,0,,,Yancheng Open 2024,2024-12-21,4.64,4.92
+6742409,1,876019,388,488,Xuanyi Geng (耿暄一),CN,XianNewYear2025,333,1,a,2023GENG02,"[571, 499, 539, 427, 388]",4,0,,,Xi'an New Year 2025,2025-01-04,3.88,4.88
+6742579,1,876020,462,507,Xuanyi Geng (耿暄一),CN,XianNewYear2025,333,2,a,2023GENG02,"[495, 489, 538, 462, 707]",3,4,,,Xi'an New Year 2025,2025-01-04,4.62,5.07
+6742676,1,876021,434,575,Xuanyi Geng (耿暄一),CN,XianNewYear2025,333,f,a,2023GENG02,"[670, 434, 563, 530, 632]",1,0,,,Xi'an New Year 2025,2025-01-04,4.34,5.75
+6759220,3,877508,454,613,Xuanyi Geng (耿暄一),CN,ChongqingNewYear2025,333,1,a,2023GENG02,"[656, 454, 556, 677, 626]",1,3,,,Chongqing New Year 2025,2025-01-12,4.54,6.13
+6759400,3,877509,480,559,Xuanyi Geng (耿暄一),CN,ChongqingNewYear2025,333,2,a,2023GENG02,"[702, 480, 553, 530, 594]",1,0,,,Chongqing New Year 2025,2025-01-12,4.8,5.59
+6759497,2,877510,488,498,Xuanyi Geng (耿暄一),CN,ChongqingNewYear2025,333,f,a,2023GENG02,"[489, 488, 512, 492, 532]",1,4,,,Chongqing New Year 2025,2025-01-12,4.88,4.98
+6840352,2,878714,394,487,Xuanyi Geng (耿暄一),CN,ChengduSpringOpen2025,333,f,a,2023GENG02,"[437, 587, 515, 508, 394]",4,1,,,Chengdu Spring Open 2025,2025-02-08,3.94,4.87
+6839968,1,878711,355,440,Xuanyi Geng (耿暄一),CN,ChengduSpringOpen2025,333,1,a,2023GENG02,"[416, 355, 439, 559, 466]",1,3,,,Chengdu Spring Open 2025,2025-02-08,3.55,4.4
+6840174,2,878712,436,500,Xuanyi Geng (耿暄一),CN,ChengduSpringOpen2025,333,2,a,2023GENG02,"[586, 436, 505, 484, 512]",1,0,,,Chengdu Spring Open 2025,2025-02-08,4.36,5.0
+6840294,2,878713,399,487,Xuanyi Geng (耿暄一),CN,ChengduSpringOpen2025,333,3,a,2023GENG02,"[400, 521, 541, 610, 399]",4,3,,,Chengdu Spring Open 2025,2025-02-08,3.99,4.87
+6905452,2,883453,448,539,Xuanyi Geng (耿暄一),CN,LuoyangSpring2025,333,f,a,2023GENG02,"[448, 568, 534, 514, 612]",0,4,,,Luoyang Spring 2025,2025-03-01,4.48,5.39
+6905352,1,883452,448,500,Xuanyi Geng (耿暄一),CN,LuoyangSpring2025,333,2,a,2023GENG02,"[506, 536, 448, 507, 488]",2,1,,,Luoyang Spring 2025,2025-03-01,4.48,5.0
+6905165,1,883451,472,490,Xuanyi Geng (耿暄一),CN,LuoyangSpring2025,333,1,a,2023GENG02,"[494, 532, 496, 472, 481]",3,1,,,Luoyang Spring 2025,2025-03-01,4.72,4.9
+6940036,1,879164,444,455,Xuanyi Geng (耿暄一),CN,LinhaiNewcomers2025,333,1,a,2023GENG02,"[471, 444, 454, 457, 453]",1,0,,,Linhai Newcomers 2025,2025-03-15,4.44,4.55
+6940150,1,879165,452,512,Xuanyi Geng (耿暄一),CN,LinhaiNewcomers2025,333,f,a,2023GENG02,"[664, 518, 452, 484, 535]",2,0,,,Linhai Newcomers 2025,2025-03-15,4.52,5.12
+6990693,2,879177,358,487,Xuanyi Geng (耿暄一),CN,XuzhouNewcomers2025,333,1,a,2023GENG02,"[474, 528, 459, 621, 358]",4,3,,,Xuzhou Newcomers 2025,2025-03-30,3.58,4.87
+6990908,2,879178,459,493,Xuanyi Geng (耿暄一),CN,XuzhouNewcomers2025,333,2,a,2023GENG02,"[459, 572, 463, 495, 522]",0,1,,,Xuzhou Newcomers 2025,2025-03-30,4.59,4.93
+6991057,2,879179,361,488,Xuanyi Geng (耿暄一),CN,XuzhouNewcomers2025,333,f,a,2023GENG02,"[502, 361, 492, 486, 485]",1,0,,,Xuzhou Newcomers 2025,2025-03-30,3.61,4.88
+7004499,3,887711,418,476,Xuanyi Geng (耿暄一),CN,XianCherryBlossom2025,333,1,a,2023GENG02,"[506, 446, 477, 418, 558]",3,4,,,Xi'an Cherry Blossom 2025,2025-04-04,4.18,4.76
+7004803,2,887712,444,488,Xuanyi Geng (耿暄一),CN,XianCherryBlossom2025,333,2,a,2023GENG02,"[472, 488, 505, 729, 444]",4,3,,,Xi'an Cherry Blossom 2025,2025-04-04,4.44,4.88
+7005011,2,887713,401,465,Xuanyi Geng (耿暄一),CN,XianCherryBlossom2025,333,3,a,2023GENG02,"[416, 617, 401, 492, 486]",2,1,,,Xi'an Cherry Blossom 2025,2025-04-04,4.01,4.65
+7005091,2,887714,458,487,Xuanyi Geng (耿暄一),CN,XianCherryBlossom2025,333,f,a,2023GENG02,"[519, 519, 458, 470, 472]",2,1,,,Xi'an Cherry Blossom 2025,2025-04-04,4.58,4.87
+7029245,1,888505,391,486,Xuanyi Geng (耿暄一),CN,ShenyangSpring2025,333,1,a,2023GENG02,"[510, 416, 391, 531, 550]",2,4,,,Shenyang Spring 2025,2025-04-13,3.91,4.86
+7029426,1,888506,305,442,Xuanyi Geng (耿暄一),CN,ShenyangSpring2025,333,2,a,2023GENG02,"[424, 469, 305, 457, 446]",2,1,WR,,Shenyang Spring 2025,2025-04-13,3.05,4.42
+7029507,2,888507,441,509,Xuanyi Geng (耿暄一),CN,ShenyangSpring2025,333,f,a,2023GENG02,"[511, 441, 467, 550, 596]",1,4,,,Shenyang Spring 2025,2025-04-13,4.41,5.09
+7055934,1,889054,435,473,Xuanyi Geng (耿暄一),CN,NanchangSpring2025,333,f,a,2023GENG02,"[595, 470, 435, 467, 482]",2,0,,,Nanchang Spring 2025,2025-04-26,4.35,4.73
+7055865,2,889053,467,516,Xuanyi Geng (耿暄一),CN,NanchangSpring2025,333,2,a,2023GENG02,"[467, 487, 530, 530, 564]",0,4,,,Nanchang Spring 2025,2025-04-26,4.67,5.16
+7055719,1,889052,456,485,Xuanyi Geng (耿暄一),CN,NanchangSpring2025,333,1,a,2023GENG02,"[581, 456, 506, 468, 482]",1,0,,,Nanchang Spring 2025,2025-04-26,4.56,4.85
+7132539,2,890935,414,448,Xuanyi Geng (耿暄一),CN,BeijingSummer2025,333,1,a,2023GENG02,"[448, 450, 562, 414, 447]",3,2,,,Beijing Summer 2025,2025-05-17,4.14,4.48
+7132809,2,890936,400,484,Xuanyi Geng (耿暄一),CN,BeijingSummer2025,333,2,a,2023GENG02,"[454, 563, 525, 400, 473]",3,1,,,Beijing Summer 2025,2025-05-17,4.0,4.84
+7132954,1,890937,402,441,Xuanyi Geng (耿暄一),CN,BeijingSummer2025,333,3,a,2023GENG02,"[402, 567, 440, 459, 423]",0,1,,,Beijing Summer 2025,2025-05-17,4.02,4.41
+7133015,2,890938,404,472,Xuanyi Geng (耿暄一),CN,BeijingSummer2025,333,f,a,2023GENG02,"[490, 439, 488, 531, 404]",4,3,,,Beijing Summer 2025,2025-05-17,4.04,4.72
+7155080,3,893951,402,496,Xuanyi Geng (耿暄一),CN,LishuiOpen2025,333,1,a,2023GENG02,"[460, 578, 511, 517, 402]",4,1,,,Lishui Open 2025,2025-05-25,4.02,4.96
+7155208,2,893952,398,475,Xuanyi Geng (耿暄一),CN,LishuiOpen2025,333,2,a,2023GENG02,"[443, 531, 398, 461, 521]",2,1,,,Lishui Open 2025,2025-05-25,3.98,4.75
+7155297,1,893953,414,478,Xuanyi Geng (耿暄一),CN,LishuiOpen2025,333,f,a,2023GENG02,"[447, 441, 414, 545, 568]",2,4,,,Lishui Open 2025,2025-05-25,4.14,4.78
+7203960,2,895398,408,508,Xuanyi Geng (耿暄一),CN,YanchengOpen2025,333,1,a,2023GENG02,"[408, 549, 458, 517, 555]",0,4,,,Yancheng Open 2025,2025-06-07,4.08,5.08
+7204139,2,895399,417,464,Xuanyi Geng (耿暄一),CN,YanchengOpen2025,333,2,a,2023GENG02,"[426, 417, 471, 496, 545]",1,4,,,Yancheng Open 2025,2025-06-07,4.17,4.64
+7204238,1,895400,420,459,Xuanyi Geng (耿暄一),CN,YanchengOpen2025,333,f,a,2023GENG02,"[487, 450, 466, 420, 460]",3,0,,,Yancheng Open 2025,2025-06-07,4.2,4.59
+7223472,2,895507,439,484,Xuanyi Geng (耿暄一),CN,ZhuhaiOpen2025,333,1,a,2023GENG02,"[466, 439, 585, 470, 515]",1,2,,,Zhuhai Open 2025,2025-06-15,4.39,4.84
+7223662,2,895508,378,524,Xuanyi Geng (耿暄一),CN,ZhuhaiOpen2025,333,2,a,2023GENG02,"[378, 551, 797, 572, 449]",0,2,,,Zhuhai Open 2025,2025-06-15,3.78,5.24
+7223759,1,895509,437,495,Xuanyi Geng (耿暄一),CN,ZhuhaiOpen2025,333,f,a,2023GENG02,"[437, 478, 490, 516, 596]",0,4,,,Zhuhai Open 2025,2025-06-15,4.37,4.95

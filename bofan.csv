@@ -1,0 +1,143 @@
+id,pos,round_id,best,average,name,country_iso2,competition_id,event_id,round_type_id,format_id,wca_id,attempts,best_index,worst_index,regional_single_record,regional_average_record,competition_name,start_date,single_seconds,average_seconds
+5768269,2,838487,527,562,Bofan Zhang (张博藩),CN,HangzhouSpring2024,333,1,a,2021ZHAN01,"[579, 527, 539, 581, 567]",1,3,,,Hangzhou Spring 2024,2024-03-02,5.27,5.62
+5768420,4,838488,503,578,Bofan Zhang (张博藩),CN,HangzhouSpring2024,333,2,a,2021ZHAN01,"[692, 548, 623, 503, 564]",3,0,,,Hangzhou Spring 2024,2024-03-02,5.03,5.78
+5768499,3,838489,518,556,Bofan Zhang (张博藩),CN,HangzhouSpring2024,333,f,a,2021ZHAN01,"[535, 573, 518, 607, 559]",2,3,,,Hangzhou Spring 2024,2024-03-02,5.18,5.56
+5768509,3,838490,139,148,Bofan Zhang (张博藩),CN,HangzhouSpring2024,222,d,a,2021ZHAN01,"[198, 139, 139, 140, 165]",1,0,,,Hangzhou Spring 2024,2024-03-02,1.39,1.48
+5768601,3,838491,138,185,Bofan Zhang (张博藩),CN,HangzhouSpring2024,222,f,a,2021ZHAN01,"[-1, 138, 227, 139, 189]",1,0,,,Hangzhou Spring 2024,2024-03-02,1.38,1.85
+5768620,6,838492,2977,3482,Bofan Zhang (张博藩),CN,HangzhouSpring2024,444,d,a,2021ZHAN01,"[4235, 3669, 3698, 2977, 3080]",3,0,,,Hangzhou Spring 2024,2024-03-02,29.77,34.82
+5768697,6,838493,3328,3489,Bofan Zhang (张博藩),CN,HangzhouSpring2024,444,f,a,2021ZHAN01,"[3360, 3360, 3747, 3328, 3940]",3,4,,,Hangzhou Spring 2024,2024-03-02,33.28,34.89
+5768820,6,838497,214,299,Bofan Zhang (张博藩),CN,HangzhouSpring2024,pyram,d,a,2021ZHAN01,"[292, 274, 333, 332, 214]",4,2,,,Hangzhou Spring 2024,2024-03-02,2.14,2.99
+5768891,5,838498,250,315,Bofan Zhang (张博藩),CN,HangzhouSpring2024,pyram,f,a,2021ZHAN01,"[359, 264, 457, 250, 322]",3,2,,,Hangzhou Spring 2024,2024-03-02,2.5,3.15
+5861579,2,843793,518,572,Bofan Zhang (张博藩),CN,XianCherryBlossom2024,333,1,a,2021ZHAN01,"[521, 518, 625, 571, 799]",1,4,,,Xi'an Cherry Blossom 2024,2024-04-05,5.18,5.72
+5861768,2,843794,530,606,Bofan Zhang (张博藩),CN,XianCherryBlossom2024,333,2,a,2021ZHAN01,"[676, 578, 656, 530, 585]",3,0,,,Xi'an Cherry Blossom 2024,2024-04-05,5.3,6.06
+5861848,3,843795,537,601,Bofan Zhang (张博藩),CN,XianCherryBlossom2024,333,f,a,2021ZHAN01,"[634, 573, 596, 537, 662]",3,4,,,Xi'an Cherry Blossom 2024,2024-04-05,5.37,6.01
+5861859,2,843796,129,161,Bofan Zhang (张博藩),CN,XianCherryBlossom2024,222,d,a,2021ZHAN01,"[129, 184, 142, 176, 166]",0,1,,,Xi'an Cherry Blossom 2024,2024-04-05,1.29,1.61
+5862004,1,843797,117,149,Bofan Zhang (张博藩),CN,XianCherryBlossom2024,222,f,a,2021ZHAN01,"[185, 124, 117, 164, 158]",2,0,,,Xi'an Cherry Blossom 2024,2024-04-05,1.17,1.49
+5862029,10,843798,5334,5877,Bofan Zhang (张博藩),CN,XianCherryBlossom2024,minx,d,a,2021ZHAN01,"[5682, 6789, 5727, 6223, 5334]",4,1,,,Xi'an Cherry Blossom 2024,2024-04-05,53.34,58.77
+5862075,9,843799,5135,5603,Bofan Zhang (张博藩),CN,XianCherryBlossom2024,minx,f,a,2021ZHAN01,"[5135, 6239, 5494, 5453, 5861]",0,1,,,Xi'an Cherry Blossom 2024,2024-04-05,51.35,56.03
+5862090,8,843800,230,305,Bofan Zhang (张博藩),CN,XianCherryBlossom2024,pyram,d,a,2021ZHAN01,"[230, 264, 344, 306, 435]",0,4,,,Xi'an Cherry Blossom 2024,2024-04-05,2.3,3.05
+5862194,4,843801,187,232,Bofan Zhang (张博藩),CN,XianCherryBlossom2024,pyram,f,a,2021ZHAN01,"[277, 187, -1, 203, 216]",1,2,,,Xi'an Cherry Blossom 2024,2024-04-05,1.87,2.32
+5862236,30,843804,401,643,Bofan Zhang (张博藩),CN,XianCherryBlossom2024,skewb,d,a,2021ZHAN01,"[601, 828, 825, 504, 401]",4,1,,,Xi'an Cherry Blossom 2024,2024-04-05,4.01,6.43
+5926430,3,841589,512,597,Bofan Zhang (张博藩),CN,NanchangSpring2024,333,1,a,2021ZHAN01,"[679, 567, 644, 512, 581]",3,0,,,Nanchang Spring 2024,2024-04-21,5.12,5.97
+5926559,2,841590,478,574,Bofan Zhang (张博藩),CN,NanchangSpring2024,333,2,a,2021ZHAN01,"[642, 602, 603, 478, 516]",3,0,,,Nanchang Spring 2024,2024-04-21,4.78,5.74
+5926618,1,841591,444,525,Bofan Zhang (张博藩),CN,NanchangSpring2024,333,f,a,2021ZHAN01,"[490, -1, 444, 534, 551]",2,1,,,Nanchang Spring 2024,2024-04-21,4.44,5.25
+5926634,1,841592,87,137,Bofan Zhang (张博藩),CN,NanchangSpring2024,222,d,a,2021ZHAN01,"[147, 172, 87, 159, 104]",2,1,,,Nanchang Spring 2024,2024-04-21,0.87,1.37
+5926719,1,841593,134,176,Bofan Zhang (张博藩),CN,NanchangSpring2024,222,f,a,2021ZHAN01,"[190, 174, 164, 134, 334]",3,4,,,Nanchang Spring 2024,2024-04-21,1.34,1.76
+5926739,5,841594,2830,3350,Bofan Zhang (张博藩),CN,NanchangSpring2024,444,d,a,2021ZHAN01,"[2830, 3685, 3225, 3146, 3680]",0,1,,,Nanchang Spring 2024,2024-04-21,28.3,33.5
+5926802,4,841595,2910,3162,Bofan Zhang (张博藩),CN,NanchangSpring2024,444,f,a,2021ZHAN01,"[2972, 3881, 3158, 3356, 2910]",4,1,,,Nanchang Spring 2024,2024-04-21,29.1,31.62
+5926818,8,841596,4799,5729,Bofan Zhang (张博藩),CN,NanchangSpring2024,minx,d,a,2021ZHAN01,"[6657, 4799, 5538, 6382, 5267]",1,0,,,Nanchang Spring 2024,2024-04-21,47.99,57.29
+5926844,5,841597,4523,4926,Bofan Zhang (张博藩),CN,NanchangSpring2024,minx,f,a,2021ZHAN01,"[4855, 5753, 4957, 4966, 4523]",4,1,,,Nanchang Spring 2024,2024-04-21,45.23,49.26
+5926857,6,841598,281,346,Bofan Zhang (张博藩),CN,NanchangSpring2024,pyram,d,a,2021ZHAN01,"[475, 384, 361, 293, 281]",4,0,,,Nanchang Spring 2024,2024-04-21,2.81,3.46
+5926923,2,841599,153,219,Bofan Zhang (张博藩),CN,NanchangSpring2024,pyram,f,a,2021ZHAN01,"[364, 164, 299, 195, 153]",4,0,,,Nanchang Spring 2024,2024-04-21,1.53,2.19
+6048488,1,850546,472,516,Bofan Zhang (张博藩),CN,TianjinOpen2024,333,1,a,2021ZHAN01,"[478, 472, 636, 574, 496]",1,2,,,Tianjin Open 2024,2024-06-01,4.72,5.16
+6048680,7,850547,495,650,Bofan Zhang (张博藩),CN,TianjinOpen2024,333,2,a,2021ZHAN01,"[495, -1, 664, 593, 694]",0,1,,,Tianjin Open 2024,2024-06-01,4.95,6.5
+6048757,4,850548,538,580,Bofan Zhang (张博藩),CN,TianjinOpen2024,333,f,a,2021ZHAN01,"[558, 587, 596, 538, 621]",3,4,,,Tianjin Open 2024,2024-06-01,5.38,5.8
+6048762,1,850549,92,135,Bofan Zhang (张博藩),CN,TianjinOpen2024,222,d,a,2021ZHAN01,"[128, 92, 143, 134, 180]",1,4,,,Tianjin Open 2024,2024-06-01,0.92,1.35
+6048895,1,850550,128,158,Bofan Zhang (张博藩),CN,TianjinOpen2024,222,2,a,2021ZHAN01,"[194, 131, 148, 128, 251]",3,4,,,Tianjin Open 2024,2024-06-01,1.28,1.58
+6048956,2,850551,116,164,Bofan Zhang (张博藩),CN,TianjinOpen2024,222,f,a,2021ZHAN01,"[-1, 169, 134, 116, 189]",3,0,,,Tianjin Open 2024,2024-06-01,1.16,1.64
+6048979,5,850552,2948,3068,Bofan Zhang (张博藩),CN,TianjinOpen2024,444,d,a,2021ZHAN01,"[3064, 3128, 3012, 2948, 3431]",3,4,,,Tianjin Open 2024,2024-06-01,29.48,30.68
+6049093,9,850553,2987,3423,Bofan Zhang (张博藩),CN,TianjinOpen2024,444,f,a,2021ZHAN01,"[3336, 3301, 3632, 3679, 2987]",4,3,,,Tianjin Open 2024,2024-06-01,29.87,34.23
+6049155,17,850556,386,402,Bofan Zhang (张博藩),CN,TianjinOpen2024,pyram,d,a,2021ZHAN01,"[545, 386, 401, 386, 420]",1,0,,,Tianjin Open 2024,2024-06-01,3.86,4.02
+6049241,7,850557,259,296,Bofan Zhang (张博藩),CN,TianjinOpen2024,pyram,f,a,2021ZHAN01,"[293, 294, 336, 301, 259]",4,2,,,Tianjin Open 2024,2024-06-01,2.59,2.96
+6173336,23,855796,33,-1,Bofan Zhang (张博藩),CN,ShanghaiFMCSummer2024,333fm,1,m,2021ZHAN01,"[-2, 35, 33, 0, 0]",2,0,,,Shanghai FMC Summer 2024,2024-07-13,0.33,
+6221476,2,855066,540,587,Bofan Zhang (张博藩),CN,Huizhou10thAnniversary2024,333,1,a,2021ZHAN01,"[664, 597, 540, 576, 588]",2,0,,,Huizhou 10th Anniversary 2024,2024-07-28,5.4,5.87
+6221648,2,855067,472,559,Bofan Zhang (张博藩),CN,Huizhou10thAnniversary2024,333,2,a,2021ZHAN01,"[606, 529, 693, 541, 472]",4,2,,,Huizhou 10th Anniversary 2024,2024-07-28,4.72,5.59
+6221749,3,855068,395,596,Bofan Zhang (张博藩),CN,Huizhou10thAnniversary2024,333,3,a,2021ZHAN01,"[629, 517, 678, 642, 395]",4,2,,,Huizhou 10th Anniversary 2024,2024-07-28,3.95,5.96
+6221798,2,855069,498,571,Bofan Zhang (张博藩),CN,Huizhou10thAnniversary2024,333,f,a,2021ZHAN01,"[615, 501, 612, 599, 498]",4,0,,,Huizhou 10th Anniversary 2024,2024-07-28,4.98,5.71
+6221815,3,855070,102,173,Bofan Zhang (张博藩),CN,Huizhou10thAnniversary2024,222,d,a,2021ZHAN01,"[134, 102, 342, 162, 224]",1,2,,,Huizhou 10th Anniversary 2024,2024-07-28,1.02,1.73
+6221925,2,855071,155,167,Bofan Zhang (张博藩),CN,Huizhou10thAnniversary2024,222,f,a,2021ZHAN01,"[162, 184, 155, 156, 290]",2,4,,,Huizhou 10th Anniversary 2024,2024-07-28,1.55,1.67
+6221952,14,855072,1435,1549,Bofan Zhang (张博藩),CN,Huizhou10thAnniversary2024,333oh,d,a,2021ZHAN01,"[1897, 1435, 1473, 1582, 1591]",1,0,,,Huizhou 10th Anniversary 2024,2024-07-28,14.35,15.49
+6222040,15,855073,1386,1694,Bofan Zhang (张博藩),CN,Huizhou10thAnniversary2024,333oh,f,a,2021ZHAN01,"[1779, 1810, 1598, 1705, 1386]",4,1,,,Huizhou 10th Anniversary 2024,2024-07-28,13.86,16.94
+6222044,2,855074,176,274,Bofan Zhang (张博藩),CN,Huizhou10thAnniversary2024,pyram,d,a,2021ZHAN01,"[361, 176, 208, 254, 366]",1,4,,,Huizhou 10th Anniversary 2024,2024-07-28,1.76,2.74
+6222110,3,855075,206,262,Bofan Zhang (张博藩),CN,Huizhou10thAnniversary2024,pyram,f,a,2021ZHAN01,"[236, 206, 288, 299, 263]",1,3,,,Huizhou 10th Anniversary 2024,2024-07-28,2.06,2.62
+6222136,13,855076,396,525,Bofan Zhang (张博藩),CN,Huizhou10thAnniversary2024,skewb,d,a,2021ZHAN01,"[698, 396, 552, 502, 522]",1,0,,,Huizhou 10th Anniversary 2024,2024-07-28,3.96,5.25
+6222197,15,855077,532,646,Bofan Zhang (张博藩),CN,Huizhou10thAnniversary2024,skewb,f,a,2021ZHAN01,"[532, 669, 732, 536, 774]",0,4,,,Huizhou 10th Anniversary 2024,2024-07-28,5.32,6.46
+6277322,1,856307,494,540,Bofan Zhang (张博藩),CN,XianOpen2024,333,1,a,2021ZHAN01,"[510, 494, 530, 581, 615]",1,4,,,Xi'an Open 2024,2024-08-03,4.94,5.4
+6277582,5,856308,438,559,Bofan Zhang (张博藩),CN,XianOpen2024,333,2,a,2021ZHAN01,"[569, 565, 542, 626, 438]",4,3,,,Xi'an Open 2024,2024-08-03,4.38,5.59
+6277699,4,856309,574,593,Bofan Zhang (张博藩),CN,XianOpen2024,333,3,a,2021ZHAN01,"[612, 716, 574, 592, 576]",2,1,,,Xi'an Open 2024,2024-08-03,5.74,5.93
+6277759,6,856310,517,609,Bofan Zhang (张博藩),CN,XianOpen2024,333,f,a,2021ZHAN01,"[976, 612, 517, 604, 612]",2,0,,,Xi'an Open 2024,2024-08-03,5.17,6.09
+6277779,14,856311,2963,3219,Bofan Zhang (张博藩),CN,XianOpen2024,444,d,a,2021ZHAN01,"[3610, 3022, 2963, 3110, 3525]",2,0,,,Xi'an Open 2024,2024-08-03,29.63,32.19
+6277987,45,856313,6720,7083,Bofan Zhang (张博藩),CN,XianOpen2024,555,d,a,2021ZHAN01,"[7574, 6911, 6720, 7531, 6806]",2,0,,,Xi'an Open 2024,2024-08-03,67.2,70.83
+6278507,13,857267,5044,5768,Bofan Zhang (张博藩),CN,XianOpen2024,minx,d,a,2021ZHAN01,"[5388, 5044, 5968, 7997, 5949]",1,3,,,Xi'an Open 2024,2024-08-03,50.44,57.68
+6339985,3,859685,510,583,Bofan Zhang (张博藩),CN,DeqingSmallCubesSummer2024,333,1,a,2021ZHAN01,"[587, 595, 510, 623, 566]",2,3,,,Deqing Small Cubes Summer 2024,2024-08-25,5.1,5.83
+6340123,3,859686,523,570,Bofan Zhang (张博藩),CN,DeqingSmallCubesSummer2024,333,2,a,2021ZHAN01,"[686, 566, 553, 591, 523]",4,0,,,Deqing Small Cubes Summer 2024,2024-08-25,5.23,5.7
+6340202,3,859687,442,551,Bofan Zhang (张博藩),CN,DeqingSmallCubesSummer2024,333,f,a,2021ZHAN01,"[677, 442, 655, 475, 524]",1,0,,,Deqing Small Cubes Summer 2024,2024-08-25,4.42,5.51
+6340221,2,859688,120,133,Bofan Zhang (张博藩),CN,DeqingSmallCubesSummer2024,222,d,a,2021ZHAN01,"[128, 126, 289, 120, 146]",3,2,,,Deqing Small Cubes Summer 2024,2024-08-25,1.2,1.33
+6340323,2,859689,101,143,Bofan Zhang (张博藩),CN,DeqingSmallCubesSummer2024,222,f,a,2021ZHAN01,"[163, 144, 121, 101, 248]",3,4,,,Deqing Small Cubes Summer 2024,2024-08-25,1.01,1.43
+6340351,10,859692,220,313,Bofan Zhang (张博藩),CN,DeqingSmallCubesSummer2024,pyram,d,a,2021ZHAN01,"[477, 298, 220, 330, 311]",2,0,,,Deqing Small Cubes Summer 2024,2024-08-25,2.2,3.13
+6340438,11,859693,188,328,Bofan Zhang (张博藩),CN,DeqingSmallCubesSummer2024,pyram,f,a,2021ZHAN01,"[188, 274, 333, 502, 376]",0,3,,,Deqing Small Cubes Summer 2024,2024-08-25,1.88,3.28
+6573154,9,850983,486,596,Bofan Zhang (张博藩),CN,RubiksWCAAsianChampionship2024,333,1,a,2021ZHAN01,"[486, 592, 668, 656, 539]",0,2,,,Rubik's WCA Asian Championship 2024,2024-11-01,4.86,5.96
+6573698,30,850984,566,732,Bofan Zhang (张博藩),CN,RubiksWCAAsianChampionship2024,333,2,a,2021ZHAN01,"[686, 566, 846, 665, 1088]",1,4,,,Rubik's WCA Asian Championship 2024,2024-11-01,5.66,7.32
+6573821,4,850985,453,574,Bofan Zhang (张博藩),CN,RubiksWCAAsianChampionship2024,333,3,a,2021ZHAN01,"[453, 538, 645, 629, 555]",0,2,,,Rubik's WCA Asian Championship 2024,2024-11-01,4.53,5.74
+6573857,4,850986,472,541,Bofan Zhang (张博藩),CN,RubiksWCAAsianChampionship2024,333,f,a,2021ZHAN01,"[506, 536, 698, 582, 472]",4,2,,,Rubik's WCA Asian Championship 2024,2024-11-01,4.72,5.41
+6573879,6,850987,115,155,Bofan Zhang (张博藩),CN,RubiksWCAAsianChampionship2024,222,1,a,2021ZHAN01,"[135, 197, 225, 132, 115]",4,2,,,Rubik's WCA Asian Championship 2024,2024-11-01,1.15,1.55
+6574317,22,850988,164,219,Bofan Zhang (张博藩),CN,RubiksWCAAsianChampionship2024,222,2,a,2021ZHAN01,"[200, 182, 276, 164, 314]",3,4,,,Rubik's WCA Asian Championship 2024,2024-11-01,1.64,2.19
+6574466,30,850990,2507,2990,Bofan Zhang (张博藩),CN,RubiksWCAAsianChampionship2024,444,1,a,2021ZHAN01,"[2507, 2624, 3014, 3488, 3333]",0,3,,,Rubik's WCA Asian Championship 2024,2024-11-01,25.07,29.9
+6574776,29,850991,2673,2936,Bofan Zhang (张博藩),CN,RubiksWCAAsianChampionship2024,444,2,a,2021ZHAN01,"[3164, 2673, 2917, 2918, 2973]",1,0,,,Rubik's WCA Asian Championship 2024,2024-11-01,26.73,29.36
+6574962,104,850993,6588,6965,Bofan Zhang (张博藩),CN,RubiksWCAAsianChampionship2024,555,1,a,2021ZHAN01,"[6809, 6792, 9162, 6588, 7295]",3,2,,,Rubik's WCA Asian Championship 2024,2024-11-01,65.88,69.65
+6575688,58,851003,1239,1561,Bofan Zhang (张博藩),CN,RubiksWCAAsianChampionship2024,333oh,1,a,2021ZHAN01,"[2956, 1736, 1239, 1333, 1613]",2,0,,,Rubik's WCA Asian Championship 2024,2024-11-01,12.39,15.61
+6575978,76,851004,1529,1944,Bofan Zhang (张博藩),CN,RubiksWCAAsianChampionship2024,333oh,2,a,2021ZHAN01,"[2237, 1529, 2987, 1833, 1761]",1,2,,,Rubik's WCA Asian Championship 2024,2024-11-01,15.29,19.44
+6576042,44,851008,4762,5326,Bofan Zhang (张博藩),CN,RubiksWCAAsianChampionship2024,minx,1,a,2021ZHAN01,"[5294, 5546, 6498, 4762, 5138]",3,2,,,Rubik's WCA Asian Championship 2024,2024-11-01,47.62,53.26
+6576196,16,851010,206,267,Bofan Zhang (张博藩),CN,RubiksWCAAsianChampionship2024,pyram,1,a,2021ZHAN01,"[319, 275, 417, 206, 206]",3,2,,,Rubik's WCA Asian Championship 2024,2024-11-01,2.06,2.67
+6576583,28,851011,265,304,Bofan Zhang (张博藩),CN,RubiksWCAAsianChampionship2024,pyram,2,a,2021ZHAN01,"[342, 265, 268, 306, 338]",1,0,,,Rubik's WCA Asian Championship 2024,2024-11-01,2.65,3.04
+6577045,113,851013,503,644,Bofan Zhang (张博藩),CN,RubiksWCAAsianChampionship2024,skewb,1,a,2021ZHAN01,"[1157, 503, 635, 543, 755]",1,0,,,Rubik's WCA Asian Championship 2024,2024-11-01,5.03,6.44
+6708833,4,872858,434,551,Bofan Zhang (张博藩),CN,HangzhouOpen2024,333,1,a,2021ZHAN01,"[637, 567, 505, 434, 580]",3,0,,,Hangzhou Open 2024,2024-12-15,4.34,5.51
+6709055,4,872859,463,563,Bofan Zhang (张博藩),CN,HangzhouOpen2024,333,2,a,2021ZHAN01,"[586, 712, 463, 582, 522]",2,1,,,Hangzhou Open 2024,2024-12-15,4.63,5.63
+6709157,6,872860,509,585,Bofan Zhang (张博藩),CN,HangzhouOpen2024,333,f,a,2021ZHAN01,"[570, 610, 622, 509, 574]",3,2,,,Hangzhou Open 2024,2024-12-15,5.09,5.85
+6709174,7,872861,113,199,Bofan Zhang (张博藩),CN,HangzhouOpen2024,222,d,a,2021ZHAN01,"[113, 378, 242, 140, 215]",0,1,,,Hangzhou Open 2024,2024-12-15,1.13,1.99
+6709313,8,872862,107,179,Bofan Zhang (张博藩),CN,HangzhouOpen2024,222,2,a,2021ZHAN01,"[156, 207, 299, 173, 107]",4,2,,,Hangzhou Open 2024,2024-12-15,1.07,1.79
+6709369,5,872863,113,178,Bofan Zhang (张博藩),CN,HangzhouOpen2024,222,f,a,2021ZHAN01,"[184, 133, 216, 113, 232]",3,4,,,Hangzhou Open 2024,2024-12-15,1.13,1.78
+6709384,4,872864,2647,2740,Bofan Zhang (张博藩),CN,HangzhouOpen2024,444,d,a,2021ZHAN01,"[2844, 2687, 3009, 2688, 2647]",4,2,,,Hangzhou Open 2024,2024-12-15,26.47,27.4
+6709499,3,872865,2452,2791,Bofan Zhang (张博藩),CN,HangzhouOpen2024,444,f,a,2021ZHAN01,"[2452, 2870, 2495, 3008, 3009]",0,4,,,Hangzhou Open 2024,2024-12-15,24.52,27.91
+6720015,3,872898,492,554,Bofan Zhang (张博藩),CN,YanchengOpen2024,333,1,a,2021ZHAN01,"[571, 492, 535, 555, 785]",1,4,,,Yancheng Open 2024,2024-12-21,4.92,5.54
+6720156,7,872899,560,684,Bofan Zhang (张博藩),CN,YanchengOpen2024,333,2,a,2021ZHAN01,"[560, 809, 683, 683, 687]",0,1,,,Yancheng Open 2024,2024-12-21,5.6,6.84
+6720233,4,872900,549,595,Bofan Zhang (张博藩),CN,YanchengOpen2024,333,f,a,2021ZHAN01,"[549, 636, 600, 572, 613]",0,1,,,Yancheng Open 2024,2024-12-21,5.49,5.95
+6720251,6,872901,138,214,Bofan Zhang (张博藩),CN,YanchengOpen2024,222,d,a,2021ZHAN01,"[280, 146, 138, 215, -1]",2,4,,,Yancheng Open 2024,2024-12-21,1.38,2.14
+6720340,2,872902,125,149,Bofan Zhang (张博藩),CN,YanchengOpen2024,222,f,a,2021ZHAN01,"[144, 125, 168, 136, 189]",1,4,,,Yancheng Open 2024,2024-12-21,1.25,1.49
+6720440,8,872907,218,322,Bofan Zhang (张博藩),CN,YanchengOpen2024,pyram,d,a,2021ZHAN01,"[243, 476, 322, 402, 218]",4,1,,,Yancheng Open 2024,2024-12-21,2.18,3.22
+6720497,6,872908,207,292,Bofan Zhang (张博藩),CN,YanchengOpen2024,pyram,f,a,2021ZHAN01,"[366, 245, 478, 207, 264]",3,2,,,Yancheng Open 2024,2024-12-21,2.07,2.92
+6818105,1,874264,525,712,Bofan Zhang (张博藩),CN,ParetsOpen2025,333,1,a,2021ZHAN01,"[607, 899, 525, 657, 873]",2,1,,,Parets Open 2025,2025-02-01,5.25,7.12
+6818221,1,874265,537,556,Bofan Zhang (张博藩),CN,ParetsOpen2025,333,2,a,2021ZHAN01,"[544, 537, 698, 558, 567]",1,2,,,Parets Open 2025,2025-02-01,5.37,5.56
+6818249,1,874266,455,572,Bofan Zhang (张博藩),CN,ParetsOpen2025,333,f,a,2021ZHAN01,"[455, 658, 566, 553, 596]",0,1,,,Parets Open 2025,2025-02-01,4.55,5.72
+6818259,1,874267,122,184,Bofan Zhang (张博藩),CN,ParetsOpen2025,222,d,a,2021ZHAN01,"[122, 376, 250, 150, 151]",0,1,,,Parets Open 2025,2025-02-01,1.22,1.84
+6818375,2,874268,121,166,Bofan Zhang (张博藩),CN,ParetsOpen2025,222,f,a,2021ZHAN01,"[195, 174, 149, 176, 121]",4,0,,,Parets Open 2025,2025-02-01,1.21,1.66
+6818436,1,874269,2700,2765,Bofan Zhang (张博藩),CN,ParetsOpen2025,444,c,a,2021ZHAN01,"[3032, 2714, 2774, 2807, 2700]",4,0,,,Parets Open 2025,2025-02-01,27.0,27.65
+6818466,1,874270,5790,6178,Bofan Zhang (张博藩),CN,ParetsOpen2025,555,c,a,2021ZHAN01,"[5826, 5790, 6262, 6997, 6446]",1,3,,,Parets Open 2025,2025-02-01,57.9,61.78
+6818669,6,874276,1296,1810,Bofan Zhang (张博藩),CN,ParetsOpen2025,333oh,c,a,2021ZHAN01,"[1504, 1713, 2213, 2523, 1296]",4,3,,,Parets Open 2025,2025-02-01,12.96,18.1
+6818756,4,874278,5039,5823,Bofan Zhang (张博藩),CN,ParetsOpen2025,minx,c,a,2021ZHAN01,"[6312, 5039, 5652, 6613, 5506]",1,3,,,Parets Open 2025,2025-02-01,50.39,58.23
+6818805,6,874279,177,389,Bofan Zhang (张博藩),CN,ParetsOpen2025,pyram,d,a,2021ZHAN01,"[568, 177, 277, 323, 610]",1,4,,,Parets Open 2025,2025-02-01,1.77,3.89
+6818881,7,874280,224,387,Bofan Zhang (张博藩),CN,ParetsOpen2025,pyram,f,a,2021ZHAN01,"[368, 224, 357, 445, 437]",1,3,,,Parets Open 2025,2025-02-01,2.24,3.87
+6818966,21,874281,370,836,Bofan Zhang (张博藩),CN,ParetsOpen2025,skewb,d,a,2021ZHAN01,"[1194, 370, 1406, 790, 525]",1,2,,,Parets Open 2025,2025-02-01,3.7,8.36
+6990694,3,879177,480,520,Bofan Zhang (张博藩),CN,XuzhouNewcomers2025,333,1,a,2021ZHAN01,"[601, 501, 549, 480, 510]",3,0,,,Xuzhou Newcomers 2025,2025-03-30,4.8,5.2
+6990910,4,879178,572,609,Bofan Zhang (张博藩),CN,XuzhouNewcomers2025,333,2,a,2021ZHAN01,"[600, 642, 572, 586, 658]",2,4,,,Xuzhou Newcomers 2025,2025-03-30,5.72,6.09
+6991060,5,879179,492,604,Bofan Zhang (张博藩),CN,XuzhouNewcomers2025,333,f,a,2021ZHAN01,"[654, 492, 620, 746, 539]",1,3,,,Xuzhou Newcomers 2025,2025-03-30,4.92,6.04
+6991117,4,879180,122,162,Bofan Zhang (张博藩),CN,XuzhouNewcomers2025,222,1,a,2021ZHAN01,"[187, 171, 128, 205, 122]",4,3,,,Xuzhou Newcomers 2025,2025-03-30,1.22,1.62
+6991251,5,879181,97,184,Bofan Zhang (张博藩),CN,XuzhouNewcomers2025,222,f,a,2021ZHAN01,"[97, 219, 166, 167, 236]",0,4,,,Xuzhou Newcomers 2025,2025-03-30,0.97,1.84
+6991378,14,879185,270,425,Bofan Zhang (张博藩),CN,XuzhouNewcomers2025,pyram,d,a,2021ZHAN01,"[366, 349, 270, 560, 940]",2,4,,,Xuzhou Newcomers 2025,2025-03-30,2.7,4.25
+6991462,14,879186,262,354,Bofan Zhang (张博藩),CN,XuzhouNewcomers2025,pyram,f,a,2021ZHAN01,"[369, 376, 400, 317, 262]",4,2,,,Xuzhou Newcomers 2025,2025-03-30,2.62,3.54
+7047548,8,887579,2600,2969,Bofan Zhang (张博藩),CN,DeqingSpring2025,444,d,a,2021ZHAN01,"[3222, 2808, 2600, 2894, 3206]",2,0,,,Deqing Spring 2025,2025-04-19,26.0,29.69
+7047642,11,887580,2557,3034,Bofan Zhang (张博藩),CN,DeqingSpring2025,444,f,a,2021ZHAN01,"[2557, 2783, 2756, 3563, -1]",0,4,,,Deqing Spring 2025,2025-04-19,25.57,30.34
+7047665,18,887581,5102,6246,Bofan Zhang (张博藩),CN,DeqingSpring2025,555,c,a,2021ZHAN01,"[5102, 7269, 8862, 5782, 5688]",0,2,,,Deqing Spring 2025,2025-04-19,51.02,62.46
+7047941,7,887586,5094,5554,Bofan Zhang (张博藩),CN,DeqingSpring2025,minx,c,a,2021ZHAN01,"[5295, 5094, 5389, 6813, 5979]",1,3,,,Deqing Spring 2025,2025-04-19,50.94,55.54
+7055721,3,889052,432,536,Bofan Zhang (张博藩),CN,NanchangSpring2025,333,1,a,2021ZHAN01,"[548, 432, 715, 602, 458]",1,2,,,Nanchang Spring 2025,2025-04-26,4.32,5.36
+7055868,5,889053,443,556,Bofan Zhang (张博藩),CN,NanchangSpring2025,333,2,a,2021ZHAN01,"[505, 443, 802, 628, 534]",1,2,,,Nanchang Spring 2025,2025-04-26,4.43,5.56
+7055938,5,889054,432,595,Bofan Zhang (张博藩),CN,NanchangSpring2025,333,f,a,2021ZHAN01,"[668, 545, 432, 571, 803]",2,4,,,Nanchang Spring 2025,2025-04-26,4.32,5.95
+7055954,5,889055,143,182,Bofan Zhang (张博藩),CN,NanchangSpring2025,222,d,a,2021ZHAN01,"[215, 143, 171, 269, 159]",1,3,,,Nanchang Spring 2025,2025-04-26,1.43,1.82
+7056053,3,889056,116,150,Bofan Zhang (张博藩),CN,NanchangSpring2025,222,f,a,2021ZHAN01,"[126, 183, 171, 116, 153]",3,1,,,Nanchang Spring 2025,2025-04-26,1.16,1.5
+7132545,8,890935,509,598,Bofan Zhang (张博藩),CN,BeijingSummer2025,333,1,a,2021ZHAN01,"[838, 542, 509, 712, 539]",2,0,,,Beijing Summer 2025,2025-05-17,5.09,5.98
+7132810,3,890936,435,558,Bofan Zhang (张博藩),CN,BeijingSummer2025,333,2,a,2021ZHAN01,"[435, 548, 704, 480, 646]",0,2,,,Beijing Summer 2025,2025-05-17,4.35,5.58
+7132957,4,890937,479,538,Bofan Zhang (张博藩),CN,BeijingSummer2025,333,3,a,2021ZHAN01,"[541, 535, 708, 538, 479]",4,2,,,Beijing Summer 2025,2025-05-17,4.79,5.38
+7133020,7,890938,436,611,Bofan Zhang (张博藩),CN,BeijingSummer2025,333,f,a,2021ZHAN01,"[436, 633, 649, 597, 603]",0,2,,,Beijing Summer 2025,2025-05-17,4.36,6.11
+7133026,3,890939,129,146,Bofan Zhang (张博藩),CN,BeijingSummer2025,222,d,a,2021ZHAN01,"[155, 147, 129, 144, 147]",2,0,,,Beijing Summer 2025,2025-05-17,1.29,1.46
+7133204,9,890940,116,191,Bofan Zhang (张博藩),CN,BeijingSummer2025,222,2,a,2021ZHAN01,"[116, 328, 168, 243, 162]",0,1,,,Beijing Summer 2025,2025-05-17,1.16,1.91
+7133301,7,890941,145,164,Bofan Zhang (张博藩),CN,BeijingSummer2025,222,f,a,2021ZHAN01,"[203, 155, 145, 161, 177]",2,0,,,Beijing Summer 2025,2025-05-17,1.45,1.64
+7155084,7,893951,503,611,Bofan Zhang (张博藩),CN,LishuiOpen2025,333,1,a,2021ZHAN01,"[756, 572, 561, 699, 503]",4,0,,,Lishui Open 2025,2025-05-25,5.03,6.11
+7155209,3,893952,430,528,Bofan Zhang (张博藩),CN,LishuiOpen2025,333,2,a,2021ZHAN01,"[586, 430, 779, 443, 555]",1,2,,,Lishui Open 2025,2025-05-25,4.3,5.28
+7155302,6,893953,576,585,Bofan Zhang (张博藩),CN,LishuiOpen2025,333,f,a,2021ZHAN01,"[576, 671, 596, 576, 582]",0,1,,,Lishui Open 2025,2025-05-25,5.76,5.85
+7155312,4,893954,2327,2681,Bofan Zhang (张博藩),CN,LishuiOpen2025,444,d,a,2021ZHAN01,"[3157, 3125, 2327, 2349, 2569]",2,0,,,Lishui Open 2025,2025-05-25,23.27,26.81
+7155363,2,893955,2535,2713,Bofan Zhang (张博藩),CN,LishuiOpen2025,444,f,a,2021ZHAN01,"[2677, 2698, 2812, 2763, 2535]",4,2,,,Lishui Open 2025,2025-05-25,25.35,27.13
+7203961,3,895398,494,569,Bofan Zhang (张博藩),CN,YanchengOpen2025,333,1,a,2021ZHAN01,"[553, 566, 588, 919, 494]",4,3,,,Yancheng Open 2025,2025-06-07,4.94,5.69
+7204140,3,895399,456,498,Bofan Zhang (张博藩),CN,YanchengOpen2025,333,2,a,2021ZHAN01,"[505, 456, 676, 500, 488]",1,2,,,Yancheng Open 2025,2025-06-07,4.56,4.98
+7204242,5,895400,455,584,Bofan Zhang (张博藩),CN,YanchengOpen2025,333,f,a,2021ZHAN01,"[668, 455, 712, 607, 477]",1,2,,,Yancheng Open 2025,2025-06-07,4.55,5.84
+7204259,4,895401,67,152,Bofan Zhang (张博藩),CN,YanchengOpen2025,222,d,a,2021ZHAN01,"[67, 357, 108, 163, 186]",0,1,,,Yancheng Open 2025,2025-06-07,0.67,1.52
+7204366,4,895402,141,181,Bofan Zhang (张博藩),CN,YanchengOpen2025,222,f,a,2021ZHAN01,"[141, 260, 180, 184, 179]",0,1,,,Yancheng Open 2025,2025-06-07,1.41,1.81
